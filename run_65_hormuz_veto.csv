@@ -1,0 +1,3096 @@
+word,book,verse,skip,start,length,sequence,hebert_score,z_score,is_significant,semantic_z_score
+וטו,Amos,Amos 5:14,1,822256,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 5:14,-1,822258,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 5:15,1,822315,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 5:15,-1,822317,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 1:4,1,1039637,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 1:4,-1,1039639,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 5:25,1,1051514,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 9:19,-1,1058931,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 1:41,1,250637,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 1:41,-1,250639,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 1:52,1,251358,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 1:52,-1,251360,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 4:9,-1,256866,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 5:3,1,261193,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 5:3,-1,261195,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 91:31,1,281054,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 91:31,-1,281056,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 52:3,-1,288122,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 23:1,-1,300875,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 23:3,-1,301715,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 33:2,1,302871,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 33:61,-1,303518,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 2:24,1,1018300,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 2:24,-1,1018302,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 4:3,1,1019559,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 4:3,-1,1019561,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 4:5,1,1019700,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 4:6,-1,1019702,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 6:6,1,1021561,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 6:6,-1,1021563,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:1,1,1021883,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:2,-1,1021885,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:2,1,1021939,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:3,-1,1021941,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:8,1,1022107,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:8,-1,1022109,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:10,1,1022185,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:10,-1,1022187,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 8:13,1,1023612,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 8:13,-1,1023614,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 11:7,1,1026287,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 11:7,-1,1026289,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 1:8,-1,1027675,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 2:7,1,1029180,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 2:7,-1,1029182,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 2:21,-1,1030277,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 3:7,-1,1030860,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 5:9,1,1033314,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 5:9,-1,1033316,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 6:2,-1,1033836,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 8:5,1,1035808,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 8:5,-1,1035810,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 9:2,-1,90683,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 61:1,1,101152,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 61:1,1,101169,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 71:1,1,103208,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 81:62,1,105578,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 81:62,-1,105580,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:1,1,105654,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:2,1,105679,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:11,1,106244,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:81,1,106573,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:2,1,106691,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:32,1,106852,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 42:61,1,113291,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 62:11,1,115824,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 13:81,1,125653,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 43:2,1,129113,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 43:4,1,129236,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 43:92,1,130607,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 43:23,1,130815,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 63:81,1,133763,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 4:63,-1,141486,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 12:16,-1,743647,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 30:5,1,772400,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 30:5,-1,772402,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 30:15,1,772970,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 30:16,1,773020,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 31:16,1,774660,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 31:16,-1,774662,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 39:20,-1,788129,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 46:23,1,801313,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 46:23,-1,801315,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:35,-1,1065927,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:44,-1,1066227,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:53,-1,1066436,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:55,-1,1066476,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 7:26,1,1074613,3,סינ,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 9:12,1,1077828,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 9:12,-1,1077830,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 2:9,1,2112,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 2:9,-1,2114,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 1:6,1,11759,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 1:6,-1,11761,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 1:71,1,12160,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 11:72,1,13881,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 11:82,-1,13883,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 21:4,1,14304,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 21:4,-1,14306,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 31:7,1,15442,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 31:7,-1,15444,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 41:21,1,16660,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 41:21,-1,16662,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 41:32,1,17209,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 41:32,-1,17211,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 81:7,1,20806,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 81:7,-1,20808,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 81:61,-1,21224,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:1,1,22222,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:1,-1,22224,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 91:2,-1,22262,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:5,1,22449,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:5,-1,22451,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:41,1,22950,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:41,-1,22952,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 91:82,-1,23713,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:92,1,23844,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:3,-1,23846,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 42:5,1,32041,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 42:5,-1,32043,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 73:62,1,55471,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:2,-1,58896,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 1:8,1,1102955,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 1:8,-1,1102957,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 1:15,1,1103201,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 4:40,1,1109160,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 4:40,-1,1109162,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 27:11,-1,1142807,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 1:42,1,480611,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 1:42,-1,480613,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 6:36,1,490717,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 6:36,-1,490719,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:12,1,491472,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:12,-1,491474,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:66,1,498437,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:66,-1,498439,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 10:7,1,500694,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 10:7,-1,500696,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 11:19,-1,503175,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 11:20,-1,503197,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:24,1,518207,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:24,-1,518209,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:26,1,386787,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:26,-1,386789,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:2,1,395086,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:2,-1,395088,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:10,1,395675,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:10,-1,395677,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:12,1,408843,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:12,-1,408845,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:16,1,409106,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:16,-1,409108,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:23,1,409487,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:23,-1,409489,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 17:40,1,411989,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 17:40,-1,411991,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:4,1,415150,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:4,-1,415152,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 29:6,1,432409,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 29:6,-1,432411,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 29:7,-1,432516,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 7:10,1,1156972,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 7:10,-1,1156974,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,1,1169327,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,-1,1169329,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,1,1169334,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,-1,1169336,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 20:9,1,1173348,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 20:9,-1,1173350,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 5:18,-1,537593,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 20:19,1,567651,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 20:19,-1,567653,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 1:10,-1,577594,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:9,1,581540,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:9,-1,581542,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 11:3,1,588520,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 11:3,-1,588522,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 17:13,-1,593926,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 17:14,1,593963,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 36:18,-1,611875,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 39:8,1,616026,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 39:8,-1,616028,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 41:7,1,617774,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 41:8,-1,617776,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 49:12,1,627571,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 55:2,1,632767,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 55:2,-1,632769,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 2:7,1,645634,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 2:7,-1,645636,3,וטו,0.0,0.0,false,0.0
+רוסיה,Jeremiah,Jeremiah 17:5,-1,668361,5,רוסיה,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 34:5,-1,696746,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 48:44,-1,718785,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 50:11,1,721958,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 9:25,1,974898,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 9:25,-1,974900,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 16:11,-1,979882,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 19:10,-1,981482,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 36:18,-1,994325,3,סינ,0.0,0.0,false,0.0
+סינ,Jonah,Jonah 2:6,-1,828673,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 18:16,1,332978,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 4:18,-1,351334,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 5:5,1,351966,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 6:11,-1,353940,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 7:21,-1,357488,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 16:12,1,372871,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 16:13,-1,372873,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:24,1,1013561,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:25,-1,1013563,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:25,1,1013582,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:26,-1,1013584,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 7:83,1,150781,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 7:83,1,150828,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 52:1,1,179591,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 62:64,1,184680,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 72:1,1,185170,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 72:1,-1,185172,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 72:43,1,186379,3,סינ,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 1:6,1,836008,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 1:7,-1,836010,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:2,1,837090,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:2,-1,837092,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:9,1,837461,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:9,-1,837463,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 2:1,-1,1081025,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 2:10,1,1081669,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 2:10,-1,1081671,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 3:35,1,1084574,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 3:35,-1,1084576,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 4:1,1,1084789,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 4:1,-1,1084791,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:1,1,1087273,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:1,-1,1087275,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:12,1,1088064,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:12,-1,1088066,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:38,-1,1089785,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:47,-1,1090077,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:55,-1,1090257,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:57,-1,1090297,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:57,-1,1090304,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 9:13,1,1093480,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:1,1,186402,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:91,1,187034,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 2:71,-1,189515,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:1,1,190304,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:4,1,190433,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:41,1,190912,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 4:1,1,193170,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 4:11,-1,193172,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 4:21,1,193295,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 4:31,-1,193297,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:1,1,203795,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:5,1,203999,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:71,-1,204710,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:21,1,205680,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 62:46,1,233920,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 82:6,1,235422,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:11,1,244647,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:21,1,244660,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:51,1,244754,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:61,1,244768,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 10:30,1,949182,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 10:30,-1,949184,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:3,1,952698,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:3,-1,952700,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:15,1,953033,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:15,-1,953035,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:16,1,953076,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:17,-1,953078,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 16:7,1,953775,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 16:8,-1,953777,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 16:33,1,954540,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 17:1,-1,954542,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 19:4,-1,956159,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 19:22,1,956699,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 19:22,-1,956701,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 21:8,1,958007,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 21:9,-1,958009,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 28:10,1,964482,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 28:10,-1,964484,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 31:12,1,967269,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 31:12,-1,967271,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 4:7,1,862951,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 4:7,-1,862953,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 13:5,1,866767,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 13:6,-1,866769,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 17:5,1,867817,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 17:5,-1,867819,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 17:11,-1,867992,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 20:3,-1,870393,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 32:7,-1,876481,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 39:12,-1,881518,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 49:16,-1,886715,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 68:9,1,895345,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 68:18,1,895662,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 68:33,-1,896201,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 82:5,1,906124,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 82:5,-1,906126,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 88:18,-1,908921,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 89:9,1,909241,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 114:3,-1,924077,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 128:2,1,932282,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 128:2,-1,932284,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 140:11,1,936719,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 140:11,-1,936721,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 9:14,2,826204,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 9:14,-2,826208,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 2:33,-2,1042884,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 7:18,-2,1055266,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 9:2,-2,1057706,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:40,2,1063246,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:40,-2,1063250,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 2:41,2,282172,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 2:41,-2,282176,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 13:81,-2,299600,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 9:2,2,1024166,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 9:2,-2,1024170,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 10:19,2,1025884,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 12:3,2,1026646,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 12:3,-2,1026650,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 4:92,-2,83404,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 12:16,-2,743626,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:55,2,1066476,3,סינ,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 4:23,2,1070016,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 4:23,-2,1070020,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:52,2,55414,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:52,-2,55418,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 73:13,-2,55720,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 24:6,-2,63214,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 54:3,-2,68878,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 54:4,-2,68958,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 64:92,-2,71532,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 84:2,-2,73970,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 84:8,-2,74332,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 94:11,2,75700,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 94:11,-2,75718,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 5:51,-2,77458,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 5:1,-2,1109492,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 7:29,-2,1115264,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 12:17,2,400814,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 12:17,-2,400818,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 5:8,-2,1152866,3,סינ,0.0,0.0,false,0.0
+רוסיה,II Chronicles,II Chronicles 30:13,-2,1190188,5,רוסיה,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 19:29,2,565942,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 19:29,-2,565946,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 22:20,-2,570728,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 23:34,2,476242,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:26,2,588074,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:26,-2,588078,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 29:14,-2,604406,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 57:1,-2,634120,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:2,2,636078,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:2,-2,636082,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 4:6,2,649232,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 5:25,2,651968,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 5:25,-2,651972,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 8:2,2,656066,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 8:2,-2,656070,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 21:4,-2,673442,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 24:3,2,678548,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 24:3,-2,678552,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 25:15,2,680084,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:5,2,686242,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:5,-2,686246,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:28,2,687806,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:28,-2,687810,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:44,2,694636,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 49:29,2,720694,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 50:15,2,722162,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 52:14,2,728340,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 12:6,2,976582,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 12:6,-2,976586,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 14:9,2,978162,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 14:10,-2,978166,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 16:11,2,979882,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 18:11,-2,980928,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 31:35,-2,990480,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 34:37,-2,993386,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 39:12,-2,996924,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 14:4,-2,326840,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 16:1,-2,330002,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 18:11,-2,332592,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 18:7,2,375582,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 18:7,-2,375586,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 21:10,2,382884,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 21:11,-2,382888,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:21,2,144910,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:21,-2,144914,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 6:4,2,148040,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 6:4,-2,148044,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:93,2,160122,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:93,-2,160126,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:52,-2,1090196,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:1,-2,186724,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 9:31,2,204428,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 9:31,-2,204432,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:61,-2,204668,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:82,2,206232,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 31:3,-2,210674,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 71:2,2,218148,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 71:2,-2,218152,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 12:62,-2,224730,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:1,2,244144,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:5,2,244390,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 43:32,-2,247082,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 63:1,-2,249108,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 7:20,2,946586,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 7:21,-2,946590,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 30:12,2,966248,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 30:12,-2,966252,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 22:5,2,871178,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 22:5,-2,871182,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 27:5,-2,873824,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 61:5,-2,892428,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 64:3,2,893406,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 64:6,2,893508,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 64:6,-2,893512,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 89:3,2,909036,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 107:37,2,921404,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 107:37,-2,921408,3,וטו,0.0,0.0,false,0.0
+וטו,Zephaniah,Zephaniah 1:13,2,841328,3,וטו,0.0,0.0,false,0.0
+וטו,Zephaniah,Zephaniah 1:13,-2,841332,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 5:21,-3,822617,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 6:19,-3,1053176,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 7:12,3,1054902,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 7:27,-3,1055894,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:26,-3,1062458,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 5:92,3,261141,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 41:91,-3,274520,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 12:2,3,282696,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 52:1,3,288021,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 23:3,-3,301715,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 8:7,-3,1036007,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 8:31,-3,88622,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 51:71,3,100524,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 3:20,3,733056,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:13,-3,742052,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:19,-3,748619,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 16:42,3,749877,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 18:15,3,753357,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 18:24,3,753918,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 27:10,3,768204,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 30:5,3,772398,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 33:12,-3,777545,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 44:29,3,798087,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 8:21,3,1075851,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:9,-3,59255,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 24:4,-3,63134,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 94:32,3,76065,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 3:5,3,807126,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 10:1,-3,811367,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 3:10,-3,1106993,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 6:35,-3,1112381,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 11:8,-3,1120283,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 12:6,3,1122249,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 3:3,3,484506,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 15:24,3,512658,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 15:26,-3,512762,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 15:34,-3,513224,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 16:19,3,514392,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 16:26,-3,514808,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 21:15,3,524982,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 22:18,3,526929,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:2,-3,395090,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 21:14,-3,419933,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:1,3,1168902,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 21:2,3,1175400,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 24:24,3,1180761,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:16,-3,1187870,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:24,3,1188549,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 7:8,-3,540938,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 7:8,3,540969,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 9:33,3,546018,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 7:19,-3,446264,3,וטו,0.0,0.0,false,0.0
+רוסיה,II Samuel,II Samuel 13:29,3,455634,5,רוסיה,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 14:2,3,456318,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 3:22,-3,580514,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:2,3,581097,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:25,3,582243,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 26:3,-3,600665,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 26:19,-3,601337,3,וטו,0.0,0.0,false,0.0
+רוסיה,Isaiah,Isaiah 66:1,-3,642707,5,רוסיה,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 1:10,3,644724,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 1:15,-3,644966,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 7:29,-3,655616,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 17:4,3,668238,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 18:11,-3,670247,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 35:15,-3,699050,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 18:14,-3,981017,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 34:33,-3,993272,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 39:28,3,997350,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 9:4,-3,317846,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 15:10,-3,328349,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 24:1,3,342498,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 1:28,-3,346388,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 1:35,3,346758,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 2:14,-3,347639,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 5:5,3,351966,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 7:13,-3,356786,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 10:15,-3,364193,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 11:20,3,365637,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 19:10,-3,377852,3,סינ,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 2:8,-3,1012022,3,וטו,0.0,0.0,false,0.0
+סינ,Lamentations,Lamentations 3:16,-3,1013354,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 1:11,-3,142121,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 3:8,-3,143771,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 3:31,3,144030,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:42,-3,145562,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 9:51,-3,153689,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:6,-3,158402,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:8,3,158508,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:32,3,159186,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:82,3,159501,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:95,-3,161240,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 61:3,3,167772,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 91:22,-3,171221,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:2,-3,204890,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:92,-3,206333,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 13:9,-3,239807,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 5:12,-3,944690,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 9:17,3,948288,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 23:20,3,960105,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 26:3,-3,962603,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 26:6,-3,873437,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 35:11,-3,878264,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 116:15,3,925128,3,סינ,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 3:1,3,847932,3,וטו,0.0,0.0,false,0.0
+רוסיה,Zechariah,Zechariah 8:9,3,851940,5,רוסיה,0.0,0.0,false,0.0
+וטו,Zephaniah,Zephaniah 1:17,-3,841532,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 1:1,-4,818256,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 6:24,4,1053516,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 9:2,4,1024164,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 9:2,-4,1024172,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 43:9,4,129528,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 43:9,-4,129536,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 11:17,-4,742340,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 31:6,4,773892,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 8:17,-4,1075584,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 24:23,4,64576,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 24:23,-4,64584,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 5:38,4,1111192,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 5:38,-4,1111200,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 11:33,4,504108,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 11:33,-4,504116,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:40,4,519256,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:41,-4,519264,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:34,4,404956,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:35,-4,404964,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 32:2,4,1192856,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 33:19,4,1196284,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 33:19,-4,1196292,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 1:17,4,577932,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 1:17,-4,577940,3,וטו,0.0,0.0,false,0.0
+ואסילי,Isaiah,Isaiah 3:1,4,579604,6,ואסילי,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 3:22,4,580500,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 3:22,-4,580508,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:5,4,586980,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:5,-4,586988,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 11:19,4,661252,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 11:19,-4,661260,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 39:16,4,706396,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 39:16,-4,706404,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:27,4,714112,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:27,-4,714120,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 6:20,4,972668,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 6:20,-4,972676,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 10:12,-4,975512,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 12:14,-4,976808,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 16:7,4,330300,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 16:7,-4,330308,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 23:2,4,341304,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 23:2,-4,341312,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 6:11,4,353940,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 2:1,-4,142568,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 1:91,4,155320,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 1:91,-4,155328,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:14,4,160168,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:14,-4,160176,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:95,4,161240,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:1,-4,161248,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:5,4,174852,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:5,-4,174860,3,וטו,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 3:5,4,860732,3,וטו,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 3:5,-4,860740,3,וטו,0.0,0.0,false,0.0
+וטו,Micah,Micah 3:8,4,832088,3,וטו,0.0,0.0,false,0.0
+וטו,Micah,Micah 3:8,-4,832096,3,וטו,0.0,0.0,false,0.0
+וטו,Micah,Micah 7:3,4,834880,3,וטו,0.0,0.0,false,0.0
+וטו,Micah,Micah 7:3,-4,834888,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 31:5,4,209644,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 31:5,-4,209652,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 91:12,4,221808,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 13:25,-4,951620,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 2:3,4,862168,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 71:6,4,897880,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 78:1,-4,902104,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 119:76,-4,927956,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 2:33,-5,1042884,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 3:6,-5,1044594,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 7:8,5,1054540,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 81:1,5,279600,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:49,-5,750294,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 36:18,5,782480,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 37:24,-5,785244,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 7:26,-5,1074619,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 43:3,5,50725,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:32,5,55270,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 74:51,-5,72784,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 94:33,-5,76624,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 14:6,-5,1125194,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 16:12,-5,1127969,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 16:19,5,514355,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 9:20,5,1160315,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 14:24,5,457805,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:24,5,587975,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 28:26,5,603470,3,וטו,0.0,0.0,false,0.0
+רוסיה,Isaiah,Isaiah 57:14,-5,634744,5,רוסיה,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 13:7,-5,662834,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 50:20,5,722530,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 24:14,5,985540,3,וטו,0.0,0.0,false,0.0
+סינ,Malachi,Malachi 1:4,-5,858584,3,סינ,0.0,0.0,false,0.0
+סינ,Micah,Micah 7:20,-5,835679,3,סינ,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 1:7,-5,836014,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:52,-5,1090189,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:22,-5,191189,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 5:41,5,195880,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:71,5,205845,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:23,5,206455,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 71:11,5,217715,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 22:8,-5,958904,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 16:7,-5,867489,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 104:32,-5,917644,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 128:5,-5,932379,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 4:72,6,258072,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 92:91,6,296412,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 6:3,-6,1021484,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 3:1,-6,1030478,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 41:9,-6,98474,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 93:62,-6,139124,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:20,6,742500,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 21:16,-6,758732,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 4:7,6,4470,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 21:5,-6,14366,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:3,-6,23858,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:82,-6,68432,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 13:2,-6,813320,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 6:12,6,489420,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 22:29,6,527532,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:4,-6,393992,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 25:36,-6,427154,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 18:28,6,1171668,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 22:1,6,1176600,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 8:16,6,543018,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 5:17,-6,443294,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 23:10,6,475182,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 11:12,6,588996,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 16:14,-6,593222,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 65:16,6,642186,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 8:9,-6,656594,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 1:7,-6,968264,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 2:4,6,969372,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 22:21,-6,340070,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 18:25,-6,376766,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:1,-6,161756,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 81:4,-6,169130,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 2:13,-6,836960,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 7:4,-6,1088786,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 11:28,-6,950030,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 4:5,-6,862892,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 18:12,-6,868622,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 45:11,-6,884840,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 80:15,6,905316,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 92:2,-6,911570,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 141:5,6,937026,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 4:17,-7,1048064,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 42:61,-7,287682,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 8:1,-7,1035555,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 22:11,7,110292,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 3:53,7,124670,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:92,7,139223,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 18:27,7,754061,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:53,7,1066436,3,סינ,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 9:8,-7,1077520,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 9:13,-7,1077947,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 6:38,7,490805,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:42,-7,496779,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 22:41,7,528241,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:4,-7,393998,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:7,-7,408523,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 2:23,-7,531884,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 3:19,-7,533130,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 18:18,-7,562768,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 3:35,-7,441227,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 50:3,7,628544,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 17:11,-7,668650,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:14,7,713020,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 3:1,-7,307632,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 9:21,-7,318951,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 9:27,-7,319343,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:31,7,158760,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:55,7,1090257,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 12:46,-7,1100627,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:6,-7,205348,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:23,7,245105,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 63:4,7,249382,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 63:31,7,249858,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 106:14,7,919359,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 109:8,7,922194,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 112:5,-7,923590,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 9:2,-8,1057712,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 33:9,8,303240,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 33:1,-8,303256,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:1,8,1037032,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:1,-8,1037048,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:72,8,119560,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:72,-8,119576,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 3:24,8,733312,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 18:16,8,753408,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 41:11,8,792496,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:9,8,491336,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:9,-8,491352,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:35,8,496248,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:35,-8,496264,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:14,8,394584,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:14,-8,394600,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 15:33,-8,407960,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:10,8,415504,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:10,-8,415520,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 5:12,8,1153104,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,8,1169320,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,-8,1169336,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 6:25,-8,539736,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 19:29,8,565936,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 19:29,-8,565952,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 12:13,8,452616,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 12:13,-8,452632,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 23:24,8,677368,3,סינ,0.0,0.0,false,0.0
+סינ,Joel,Joel 4:15,8,817896,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 22:30,-8,340768,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 16:27,-8,373952,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 21:17,8,383216,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 21:17,-8,383232,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 5:1,8,146264,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 5:1,-8,146280,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:91,8,162352,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:91,-8,162368,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 19:29,8,956888,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 19:29,-8,956904,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 20:28,-8,957712,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 58:3,-8,890856,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 105:12,-8,918080,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:22,9,1038411,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 4:9,9,734004,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 12:3,-9,1122143,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 12:20,-9,506111,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 3:21,-9,388598,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 7:9,9,393273,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 23:7,-9,422051,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 30:18,-9,1190525,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 34:17,9,1197873,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:4,9,586962,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 20:6,9,596097,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:31,9,693837,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 52:1,-9,727556,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 7:21,-9,357494,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:8,9,161613,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 51:71,9,165087,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 21:41,9,209385,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 23:61,9,242820,3,וטו,0.0,0.0,false,0.0
+רוסיה,Proverbs,Proverbs 1:3,-9,941072,5,רוסיה,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 37:27,9,880029,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 54:5,9,888993,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 57:7,9,890631,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 140:8,-9,936635,3,סינ,0.0,0.0,false,0.0
+סינ,Ruth,Ruth 3:3,-9,1007960,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 3:10,10,1031120,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 9:72,10,91090,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 23:2,-10,126894,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 18:12,-10,753154,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 24:26,-10,765444,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 14:24,-10,62114,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 3:2,10,387620,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:34,10,404950,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 20:5,10,1173100,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 42:18,10,619750,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 50:5,-10,628654,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 53:7,10,631460,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 57:1,10,634120,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 41:10,-10,998554,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 18:21,10,376510,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 9:2,-10,1092704,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 28:22,10,964850,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 30:11,10,966240,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 8:6,-10,864594,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 33:7,-10,876804,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 1:24,-11,479433,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 15:2,11,458634,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 16:12,11,461681,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:5,-11,686255,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:28,11,687797,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:30,-11,693757,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 39:15,11,706299,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 19:15,-11,334090,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:12,11,204963,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 43:12,11,247049,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:3,11,952688,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 111:4,11,923263,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 12:10,-11,856128,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 41:91,-12,99104,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 6:13,-12,1072388,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 10:19,12,398184,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,12,1169316,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 24:24,12,1180752,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 10:2,-12,448892,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 14:18,-12,665156,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 20:20,12,982620,3,וטו,0.0,0.0,false,0.0
+וטו,Jonah,Jonah 4:4,12,829620,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 18:1,12,375156,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 18:30,-12,377120,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 5:17,-12,1016036,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:4,-12,144488,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:1,-12,190304,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 7:21,12,198912,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 92:33,-12,238172,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 12:8,12,950352,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 84:11,-12,907088,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 119:124,12,929208,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 2:35,13,1042990,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 2:46,13,1043887,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 9:12,13,266747,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 8:21,13,1075841,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 71:32,-13,20276,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 9:22,-13,1117996,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 7:3,13,1156441,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 3:23,-13,580524,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 46:4,-13,624542,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 16:5,-13,330222,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 19:26,-13,334460,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:41,-13,145050,3,וטו,0.0,0.0,false,0.0
+סינ,Micah,Micah 1:6,13,830453,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 18:27,14,754054,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 5:22,14,77812,3,סינ,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 12:15,14,813232,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 3:10,14,1106980,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 16:20,-14,1128158,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 10:14,14,1161832,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 5:23,14,537936,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 7:10,-14,445784,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 18:27,14,466200,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 16:10,-14,667320,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 20:28,-14,380950,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:3,14,159586,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:21,-14,205670,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 135:4,14,933856,3,סינ,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 1:1,-14,1005140,3,וטו,0.0,0.0,false,0.0
+סינ,Song of Songs,Song of Songs 2:14,14,1001112,3,סינ,0.0,0.0,false,0.0
+וטו,Zephaniah,Zephaniah 1:13,14,841316,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 11:31,15,269370,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 53:11,15,131415,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 17:19,-15,752219,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 25:10,15,766110,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 24:82,-15,64364,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 14:9,15,509850,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:31,15,560880,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 8:14,15,656910,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 8:15,-15,1092329,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 63:9,-15,249674,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 31:16,15,967380,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 102:13,-15,915494,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 4:20,-16,1048312,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:42,16,763680,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 47:14,-16,802264,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 18:23,16,670928,3,וטו,0.0,0.0,false,0.0
+רוסיה,Leviticus,Leviticus 4:41,16,145056,5,רוסיה,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 11:13,16,208432,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 18:48,16,869696,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:40,17,1063231,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 73:62,-17,136006,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:46,17,750159,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 7:1,17,1073057,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 93:22,-17,58724,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 29:3,17,1145800,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 1:8,17,1148010,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 51:19,-17,724988,3,וטו,0.0,0.0,false,0.0
+הורמוז,Nahum,Nahum 1:4,17,835873,6,הורמוז,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 6:9,17,197336,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 69:14,17,896767,3,סינ,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 3:11,17,1001810,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 33:19,18,777834,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 44:2,-18,796316,3,סינ,0.0,0.0,false,0.0
+וטו,Haggai,Haggai 1:9,-18,844034,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 1:4,18,478296,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:3,18,393948,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 18:28,18,1171656,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 7:10,-18,541166,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 16:22,-18,462218,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 13:4,18,662688,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 18:12,-18,670262,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 2:19,18,1012788,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 51:5,-18,164480,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 11:61,18,207468,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 61:42,18,216504,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 63:21,18,249822,3,וטו,0.0,0.0,false,0.0
+רוסיה,Psalms,Psalms 18:30,18,869166,5,רוסיה,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 1:8,-18,846446,3,סינ,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 12:4,-18,855698,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 1:8,-19,92045,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 3:1,-19,123072,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 63:31,19,133532,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 9:2,-19,739394,3,סינ,0.0,0.0,false,0.0
+הורמוז,II Chronicles,II Chronicles 25:9,19,1181629,6,הורמוז,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 28:13,19,1185999,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 25:4,19,600115,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 46:15,-19,715587,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 19:15,19,378100,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 44:20,-19,884231,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 91:3,-19,911173,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 8:3,20,1035700,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 61:1,20,101120,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:3,20,139280,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 21:28,20,759340,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 36:18,-20,782444,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:11,20,408740,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 22:19,20,421400,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 4:2,-20,649004,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 20:3,20,982120,3,סינ,0.0,0.0,false,0.0
+סינ,Joel,Joel 1:4,20,814540,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 1:12,20,305500,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:41,-20,145084,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:3,20,163000,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 17:10,20,867960,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 51:8,20,887780,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 78:32,-20,903164,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 89:30,20,909880,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 10:20,-21,1060853,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 1:51,-21,1104386,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 16:13,-21,514013,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 7:29,-21,655616,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 30:20,-21,689132,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 11:43,21,156891,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:62,21,187425,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 72:20,21,899199,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 100:4,21,914781,3,וטו,0.0,0.0,false,0.0
+סינ,Song of Songs,Song of Songs 2:14,-21,1001108,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 62:61,-22,116070,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 22:18,22,760694,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 52:22,22,33858,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 57:1,-22,634148,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 13:12,22,368654,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 33:12,22,876964,3,וטו,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 2:8,-22,1006828,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 22:52,23,285338,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:26,-23,1022894,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:81,-23,119178,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 7:1,23,1073065,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 73:82,23,55591,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 83:61,-23,56733,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:11,23,1187559,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 18:5,23,464669,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 8:4,-23,973697,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 1:61,23,155158,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:24,-23,245448,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 66:10,-23,894485,3,סינ,0.0,0.0,false,0.0
+רוסיה,Deuteronomy,Deuteronomy 31:7,-24,273080,5,רוסיה,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 33:1,-24,303272,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:1,24,1037016,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:9,24,22656,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 14:23,-24,510776,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 17:1,24,409512,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:10,24,415488,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:13,24,415680,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 28:3,24,430488,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 9:2,24,543936,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 38:7,-24,703736,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 10:1,24,363384,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 92:22,-24,237704,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 92:72,24,237912,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 12:4,-24,950240,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 38:20,24,881040,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 1:4,-25,805214,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 28:17,25,1145200,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 35:11,-25,1199964,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:26,-25,582339,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 5:9,25,146800,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 31:14,-25,875789,3,סינ,0.0,0.0,false,0.0
+וטו,Amos,Amos 2:3,-26,819256,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 6:7,26,823186,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:21,-26,292080,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:36,-26,763330,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 8:10,26,1075152,3,סינ,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 14:4,-26,814056,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:34,26,496236,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 14:22,26,510718,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 2:5,26,1149044,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 3:19,26,533130,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 15:32,26,953524,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 105:37,26,918710,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 111:9,26,923416,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 3:2,-27,123080,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 8:10,27,738666,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 13:28,27,455463,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 5:18,-27,651551,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 36:4,-27,699746,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 12:18,-27,976928,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 3:7,-27,1082903,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 62:73,-27,232673,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 8:10,27,947052,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 31:11,-27,967262,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 85:4,-27,907295,3,וטו,0.0,0.0,false,0.0
+סינ,Zephaniah,Zephaniah 1:2,-27,840659,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 8:3,28,1035692,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 38:14,28,786324,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:8,-28,1187364,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:3,-28,558904,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 61:1,29,101152,3,סינ,0.0,0.0,false,0.0
+וטו,Haggai,Haggai 1:8,29,843987,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 10:25,-29,501799,3,סינ,0.0,0.0,false,0.0
+סינ,Jonah,Jonah 1:13,29,828240,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 16:2,-29,372111,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 8:31,-29,202983,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 83:1,-29,906233,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 6:1,-30,261224,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 46:23,-30,801344,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:50,30,1113090,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 7:34,-30,1115444,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 7:40,30,1115640,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 28:7,30,1144500,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 7:11,-30,445874,3,וטו,0.0,0.0,false,0.0
+סינ,Lamentations,Lamentations 3:16,-30,1013354,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 38:20,30,881040,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 143:1,30,937560,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 2:10,-31,1029435,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:13,31,55707,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 74:5,-31,72155,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 11:22,31,503347,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 4:12,31,1151805,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 14:5,-31,553461,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 32:15,31,608034,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 20:23,31,380618,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:12,-31,145377,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 12:61,-31,224241,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 22:51,-31,226039,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 92:83,-31,238377,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 19:2,32,754432,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 32:26,-32,776296,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:53,32,1066432,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 17:13,32,410304,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 4:9,32,534304,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 17:21,32,560160,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 7:14,32,446016,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 17:7,-32,668424,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 11:9,32,1097440,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 71:42,32,218432,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 22:81,32,226208,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 34:14,-33,1197689,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 1:5,-33,644477,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:91,34,68034,3,וטו,0.0,0.0,false,0.0
+וטו,Haggai,Haggai 1:8,34,843982,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 2:31,-34,483316,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 22:17,34,526898,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 21:3,-34,1175454,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 31:37,34,691594,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:52,34,173264,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:2,-34,221754,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 2:10,-34,862382,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 33:15,35,777700,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 6:3,-35,6919,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 44:19,-35,622394,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:12,-35,173029,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 141:6,-35,937079,3,סינ,0.0,0.0,false,0.0
+סינ,Amos,Amos 5:17,36,822456,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 52:21,-36,113828,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 53:8,-36,131324,3,סינ,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 9:5,-36,810680,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 2:7,-36,969512,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 38:20,36,881028,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 3:4,-37,43417,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 15:3,37,406260,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 8:16,-37,542991,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 11:24,-37,949917,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 34:13,37,877640,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 106:40,-37,920095,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 140:6,37,936581,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 11:2,38,93442,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 19:8,38,981426,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 8:42,-38,152142,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 9:61,38,204668,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:82,39,139191,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 49:5,39,627120,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:28,-39,1013645,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 2:1,39,1081041,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:12,-39,205994,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 9:61,-40,266424,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 1:3,40,80,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 6:24,-40,972784,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 42:10,-40,999504,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:57,-40,1090304,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 23:35,40,960600,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 30:8,41,688472,3,סינ,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 2:15,-41,1007331,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 61:72,-42,102686,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 3:24,42,648816,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 37:8,-42,994934,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 16:25,42,373800,3,סינ,0.0,0.0,false,0.0
+וטו,Amos,Amos 5:14,44,822272,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 61:81,44,102212,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 24:23,44,765248,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 25:6,44,765820,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 19:14,-44,1132580,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:25,-44,518252,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:1,44,393888,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 9:34,-44,546060,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 18:14,44,376068,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 8:11,45,88515,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 9:5,-45,810689,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:56,45,497745,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 48:13,-45,626369,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 19:7,45,870030,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 41:4,45,882495,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 22:13,-46,420892,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 36:7,-46,994006,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 40:2,46,997464,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 15:3,-46,952698,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:16,47,294737,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 2:36,-47,387481,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 14:6,-47,1166224,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 5:23,-47,443646,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:19,-47,581967,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 43:9,-47,711593,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 61:11,47,215871,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 102:14,-47,915526,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 11:3,-48,268712,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 4:2,48,1068480,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 21:16,48,568800,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 41:22,48,618576,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 48:45,48,718896,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 31:35,48,990480,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 3:25,48,943296,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 9:17,49,1160124,3,סינ,0.0,0.0,false,0.0
+וטו,Zephaniah,Zephaniah 1:12,49,841281,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 12:2,-50,855514,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 6:20,-51,1053224,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 5:28,51,652086,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 105:39,51,918765,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 6:20,-52,489888,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 22:10,52,569972,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 22:13,-52,339504,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 31:72,52,210496,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:44,-52,245488,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 147:4,-52,939636,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:41,-53,23004,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:51,53,221434,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:37,-54,763358,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 41:12,54,792558,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:41,54,23004,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 8:16,-54,394646,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 7:8,54,540918,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 8:12,54,203472,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 7:17,-55,824459,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 4:13,-55,1020039,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 33:13,55,777590,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 4:19,-55,1069759,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:22,55,55220,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:20,-55,386384,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:91,-55,162369,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 1:11,-55,846624,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:44,-56,763752,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:8,56,491288,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 19:8,56,1172528,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 12:5,57,1163655,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:2,-57,221777,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 44:16,-57,884117,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 42:11,58,287390,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 5:23,58,651862,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 75:9,58,900972,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 16:6,59,408457,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:4,59,559025,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 2:62,59,223256,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 35:6,59,878097,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 102:7,-59,915356,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:51,60,292320,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 4:17,-60,734504,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 12:24,-60,401264,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 63:11,60,249780,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 36:10,-61,611339,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:6,-61,724250,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:73,-61,160000,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:24,-61,160244,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 4:39,62,1109118,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 7:25,62,584598,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 18:7,62,980840,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 9:13,62,360716,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 32:24,62,178436,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 115:1,-62,924252,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:10,63,491400,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 20:6,63,416871,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 8:31,-63,317264,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 4:81,-63,145274,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:22,-63,173057,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 83:13,63,906570,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 16:19,64,558720,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 6:17,64,972608,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 38:17,64,880960,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 81:71,65,21255,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 12:3,-65,451954,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 7:1,-65,148989,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 17:17,66,559944,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 28:23,66,987756,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 52:31,67,113900,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 62:12,-67,116311,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 5:41,67,77385,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:41,67,221368,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 39:12,-67,881518,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 107:29,67,921183,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 8:16,-68,1036836,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:81,68,68000,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:3,-68,581168,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 135:20,-68,934360,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 20:14,-69,755864,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:20,69,560073,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 7:21,-71,1074192,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 33:23,-71,609213,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 8:3,72,1035648,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 41:91,-72,99104,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 94:51,-72,75848,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 61:92,72,167688,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:7,-72,174920,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 4:22,73,1048499,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 5:8,73,1033242,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 28:1,73,1185155,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 4:41,-73,536100,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 29:15,73,604513,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 17:2,-73,374405,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 36:12,74,700336,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 9:13,-74,865076,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 34:31,-75,1198964,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 29:6,75,603900,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 24:19,75,985725,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 37:6,-75,879389,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 1:4,76,252168,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 11:13,-76,660924,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 10:23,-76,948964,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 5:81,-77,260368,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 30:13,77,1190189,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 10:14,-77,449711,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 4:6,-77,580996,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:15,-77,636821,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 2:26,-78,1018442,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 9:82,-78,91178,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 31:39,78,691704,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 108:8,-78,921800,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 16:37,79,749631,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 5:40,-79,1111268,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:17,79,713212,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 21:6,-79,336594,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 17:4,-79,374593,3,סינ,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 2:23,80,1018240,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:13,80,68560,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 23:4,80,872160,3,וטו,0.0,0.0,false,0.0
+סינ,Song of Songs,Song of Songs 5:2,-81,1002740,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 38:25,-82,705038,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 8:22,-82,203608,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:14,82,245426,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 23:31,-82,960468,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 2:6,84,252756,3,סינ,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 10:15,-84,1025720,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:31,84,118944,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 44:10,-84,883928,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 25:9,-85,425329,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 92:11,-85,237139,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 33:8,86,303150,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 14:9,86,664436,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 89:47,-86,910320,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 41:8,87,792309,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:13,-87,176042,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 73:31,88,54736,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:16,88,636856,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 77:9,-88,901712,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 78:35,-89,903233,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 5:7,-90,734954,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 33:20,90,777870,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:8,90,22590,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 6:24,90,1112040,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 34:28,90,1198710,3,סינ,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 14:10,-90,857534,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 61:41,-91,102007,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 93:83,-91,139681,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 1:4,91,1064518,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 22:15,-91,597593,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 52:8,-91,179903,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 80:13,-91,905264,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 7:1,-92,1113836,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 44:4,92,883752,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 60:9,-92,892116,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 93:12,93,58683,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:52,94,119474,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 21:13,-94,524862,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 24:1,94,476392,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 1:2,-96,1027304,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 3:28,-96,349928,3,וטו,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 3:4,96,860640,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 22:10,97,569972,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 33:14,-98,777640,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 17:11,98,867986,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:22,100,1188400,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 28:3,100,987200,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 53:51,-100,248064,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:61,-101,1113555,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 11:12,-102,742022,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 36:38,-102,783638,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 36:4,103,610893,3,וטו,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 5:11,103,1003117,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 12:15,104,400712,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:19,-104,637048,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 13:23,104,1102296,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 7:15,-105,1055099,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 4:33,105,141330,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 19:9,-105,754694,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 45:20,105,799575,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 20:10,105,521640,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 19:2,105,594510,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:61,105,143325,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 119:87,-105,928259,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 21:52,-106,272104,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 3:9,-106,862736,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 38:14,106,880860,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 1:92,107,93304,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 62:34,107,184468,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 9:19,108,1117800,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 9:14,-108,1159988,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 31:3,108,689472,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 25:5,108,872748,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 38:23,-108,881132,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 24:30,109,1139159,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 14:33,109,952551,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 44:20,110,622490,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 1:6,-111,384113,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:16,-112,636856,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:42,-113,191277,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 10:27,114,548226,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 80:9,114,905160,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 18:6,-115,594289,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 59:9,115,891480,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 3:20,116,733004,3,וטו,0.0,0.0,false,0.0
+וטו,Haggai,Haggai 1:6,116,843900,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 24:22,-116,599848,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 33:15,-118,608792,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 49:9,-118,886446,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 51:11,119,629629,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:9,120,741840,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:38,-120,763424,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:17,-120,837824,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:51,121,119064,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 40:37,121,790977,3,וטו,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 1:4,121,1000065,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 3:1,122,297680,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 30:7,122,772504,3,וטו,0.0,0.0,false,0.0
+סינ,Ruth,Ruth 1:17,-122,1006070,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 27:9,123,1185105,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 109:18,-123,922502,3,וטו,0.0,0.0,false,0.0
+סינ,Song of Songs,Song of Songs 3:2,-123,1001345,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:23,124,365800,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 2:1,-125,2164,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 4:61,-125,59664,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 10:19,126,398160,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 2:4,129,437181,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 23:15,-129,342290,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:72,-130,139174,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 2:22,130,438230,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 14:24,130,591630,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 7:25,-130,655404,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 2:17,131,347805,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 53:71,-131,248179,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 4:22,133,1048439,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 27:3,-133,429656,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 44:25,-133,622772,3,סינ,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 4:18,-134,807952,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 30:26,134,606350,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:81,134,172860,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 7:22,135,655155,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 10:4,-135,658949,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 11:1,135,866025,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 3:9,137,348802,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:52,-137,244960,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 20:6,-138,755312,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 34:26,138,780252,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 1:3,-138,12596,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:3,-138,58964,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 32:7,139,775203,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 3:6,141,80652,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 9:12,142,90738,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 5:71,-142,196064,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 10:29,143,1079793,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 46:9,-143,624776,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 56:9,-143,890184,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:81,-144,158936,3,וטו,0.0,0.0,false,0.0
+סינ,Zephaniah,Zephaniah 1:6,-147,840899,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 72:17,148,899100,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 62:9,-150,892814,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 74:51,151,72782,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 7:5,152,262808,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 5:32,152,488680,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 30:21,-152,1190720,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:32,152,173128,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 30:23,-153,689288,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 40:37,154,790944,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 13:3,155,551800,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 3:3,-156,1018520,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 24:23,156,1180608,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 17:21,-156,463784,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 29:2,156,686088,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 18:3,-157,955448,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 141:6,-157,937079,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:16,159,559839,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 27:8,-159,963542,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 7:14,-160,824264,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:34,-160,518824,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 3:19,-162,970502,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 5:2,163,1020380,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:19,-163,386340,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 23:34,-164,573592,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 9:5,164,153176,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:92,165,68475,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 12:22,-165,1099184,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 3:7,166,1030860,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 34:35,166,993344,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 53:1,-166,247306,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 32:51,167,176853,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 1:4,168,478296,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 10:10,169,659269,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 10:17,170,364310,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 34:35,171,993339,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 50:26,-172,722840,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 33:81,175,303625,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 9:6,-175,586064,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 1:43,-177,1104038,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 15:23,-178,407414,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 38:9,-179,785966,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 31:1,180,689400,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 1:4,181,729973,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:12,182,1111656,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 5:7,-182,536714,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:3,184,145912,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 7:28,185,1055980,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 5:6,185,536685,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 8:42,-185,152049,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 2:8,-185,1081489,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 17:23,-187,516602,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 10:20,-188,659752,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 125:5,-188,931788,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 2:41,189,1043469,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:52,-193,1113150,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 18:29,-193,466407,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 3:5,195,1150305,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 3:18,-197,1107187,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 3:5,-199,848164,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 19:8,-200,754664,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 62:64,-200,184664,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 1:19,202,968994,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 6:35,202,355520,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 21:18,-203,1134724,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 9:17,-204,1093820,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 8:8,205,88355,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:28,-205,762889,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 5:3,205,390320,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 69:37,205,897490,3,וטו,0.0,0.0,false,0.0
+רוסיה,II Samuel,II Samuel 7:7,206,445578,5,רוסיה,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 4:14,-207,1020065,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:6,-207,636287,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 10:42,-208,1080088,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 17:23,212,560316,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 3:25,-213,1046147,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 9:11,-214,826012,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 34:14,-214,992718,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 3:9,-215,579994,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 3:12,215,1083170,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 3:11,-215,942914,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 99:6,-217,914518,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 23:6,218,341606,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 19:11,-219,754808,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:30,-219,492665,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:35,220,188760,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 48:1,-222,802916,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 12:12,-222,813128,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 22:1,-222,871070,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 4:6,223,1047208,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 42:94,-224,31944,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 93:21,224,58240,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:36,-224,387432,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:24,-224,560360,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 16:15,-224,373096,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 5:6,-224,146632,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 2:30,-225,646889,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 11:4,-225,660164,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 19:7,226,1172488,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 2:8,-227,1029216,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 6:23,229,1053400,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 1:6,-229,1064678,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 6:18,-229,312642,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:44,229,245488,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 5:52,230,77970,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 81:7,-231,279464,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:4,-231,220790,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 29:18,231,965580,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 17:2,232,668160,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 34:4,-233,609438,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 5:81,235,147345,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 91:2,-236,170304,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:41,238,239190,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 119:3,239,926125,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 23:12,240,598560,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:81,242,59774,3,סינ,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 1:4,243,846126,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 26:3,245,962605,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 6:5,247,444106,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 2:16,-247,347785,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 11:6,-248,268912,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:26,-250,1188664,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 54:41,251,69527,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 72:21,255,290955,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 15:19,255,1167900,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 39:12,255,881535,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:10,256,761856,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 29:6,256,432384,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 13:4,-258,43784,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 12:7,-259,866519,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:3,-260,139304,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 12:16,-263,743647,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 4:9,-263,350725,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 34:32,266,993244,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:31,267,54735,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 11:14,-267,365228,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 87:6,267,908334,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 24:10,268,872608,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:30,-269,588249,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 1:26,269,346203,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:31,-270,749264,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 12:9,270,662040,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 40:2,-272,997464,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 53:6,273,247611,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 26:22,-277,1184515,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 78:17,-278,902666,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 1:17,-280,968824,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 9:2,-281,864748,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 7:5,284,86620,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 6:6,284,1071816,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 33:26,286,992134,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 9:33,288,546048,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 6:15,292,539032,3,סינ,0.0,0.0,false,0.0
+וטו,Obadiah,Obadiah 1:12,293,826846,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 31:11,-295,875649,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 147:6,-297,939695,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:10,298,491402,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 26:20,-300,601364,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 17:29,301,560763,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:29,-302,588194,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 46:23,303,715989,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 10:15,306,1161882,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 17:8,306,980424,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 22:28,-306,959486,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 22:12,307,570099,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 9:1,307,317745,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:31,307,158719,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 7:6,-308,1022052,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 51:7,-308,164580,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 22:4,312,958776,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 25:15,314,962096,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 3:13,-317,1107052,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 22:29,-318,761294,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 7:5,-318,1088834,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 51:81,319,214049,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 20:8,319,870551,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 4:1,-321,350183,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 61:12,324,102384,3,סינ,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 4:3,324,1068552,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 13:2,324,324972,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 39:12,-328,706104,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 24:2,-332,985176,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 73:14,-334,899582,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 38:16,-337,786417,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 41:1,-337,16035,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 6:20,-343,1072816,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 16:56,-348,750764,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:7,-348,1089020,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 30:17,-350,688964,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 24:10,351,424008,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 3:3,354,1150146,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 20:8,355,755440,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 7:7,-355,1073269,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 15:13,355,406830,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 71:15,-356,898160,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 78:44,-356,903500,3,וטו,0.0,0.0,false,0.0
+רוסיה,Leviticus,Leviticus 72:3,-357,184796,5,רוסיה,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 6:13,-362,736480,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 9:17,363,586608,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 8:81,363,151734,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:41,364,67704,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 5:6,364,195468,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 19:10,-365,415504,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:6,-366,724250,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 50:3,368,628544,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 12:15,-368,662392,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 72:1,-369,117221,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 25:42,-369,427550,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:42,372,206088,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 7:23,373,737794,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 82:71,377,119132,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:38,378,1112454,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 92:72,-381,41093,3,וטו,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 4:11,382,1002368,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 15:10,-388,1167440,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 7:87,-388,201708,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:5,391,1169090,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:19,-393,742442,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 3:22,-394,1107384,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 13:7,399,507528,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 3:5,402,1030728,3,וטו,0.0,0.0,false,0.0
+סינ,Song of Songs,Song of Songs 2:11,402,1000980,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 16:27,406,373926,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 1:27,-408,731312,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 3:3,-409,80487,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 20:10,414,521640,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 4:30,418,650408,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 1:21,-420,969104,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:39,-421,763443,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:34,-422,366494,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 7:78,433,202211,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 12:11,-434,108580,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 5:24,-437,1110616,3,וטו,0.0,0.0,false,0.0
+סינ,Hosea,Hosea 14:4,-440,814064,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 39:8,-442,996784,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 72:81,-443,234899,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 51:22,-444,165332,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 17:8,447,593616,3,וטו,0.0,0.0,false,0.0
+וטו,Jonah,Jonah 1:7,-447,827846,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 3:11,-450,1018814,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 9:4,452,1077116,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 30:12,-452,988944,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 20:25,-453,471320,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 2:20,454,1041930,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:2,-462,221714,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 81:52,-463,105480,3,וטו,0.0,0.0,false,0.0
+וטו,Micah,Micah 7:1,463,834789,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 103:7,-463,916193,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 17:34,465,411525,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 7:51,-466,87052,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 9:19,-466,1117844,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:39,-467,763489,3,וטו,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 3:15,-467,1008664,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 5:24,468,1110564,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 40:5,-469,881786,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 31:30,473,691053,3,סינ,0.0,0.0,false,0.0
+וטו,Micah,Micah 7:9,474,835188,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 34:29,-475,993139,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 32:9,479,28740,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 4:2,482,970748,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 78:43,-482,903472,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 3:9,484,439472,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 25:7,-485,575449,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 5:12,-489,863441,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 42:81,491,113421,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 3:5,492,1044516,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 46:15,-493,715587,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 5:8,-499,1086380,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 61:61,-499,216124,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:39,-500,519164,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 4:31,500,145000,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 7:81,-501,8804,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 45:1,-501,623030,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 64:7,502,893560,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 8:4,-504,358088,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 8:35,-505,947814,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 48:18,507,626652,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 26:12,-508,767152,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 13:2,-508,551760,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 41:17,508,618236,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 17:10,-513,374936,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 2:47,515,1106220,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 12:14,-517,950541,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:16,520,1111760,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 89:32,-520,909944,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:3,522,395154,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 82:7,-524,235472,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 13:6,525,866775,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 27:2,528,683232,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:28,528,725472,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 41:5,529,274022,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 81:91,-529,21336,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 17:26,531,669591,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 136:5,-532,934524,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:8,534,54468,3,וטו,0.0,0.0,false,0.0
+וטו,Jonah,Jonah 2:4,537,828591,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:24,540,1022760,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 19:3,-540,519764,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:36,-540,387464,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:27,541,714120,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 38:11,543,880746,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 19:10,544,956352,3,וטו,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 3:1,547,860431,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 83:16,-547,906646,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 29:5,-556,1145916,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 16:23,-557,373595,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 53:51,-560,248104,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 48:14,563,886162,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 14:1,-565,951654,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 25:2,568,1139408,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 149:4,-569,940655,3,וטו,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 4:8,573,1002177,3,וטו,0.0,0.0,false,0.0
+וטו,Jonah,Jonah 2:3,579,828549,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 31:85,-582,161162,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 2:35,583,1042987,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 28:4,-584,1144336,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 41:64,-584,163800,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 14:15,585,370305,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 8:36,-589,947843,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 46:19,596,715796,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 5:23,598,1051284,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:4,-598,494308,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 16:17,-599,461936,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:25,599,164126,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 41:64,600,163800,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:43,602,187824,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 4:6,-610,1047184,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 52:12,-617,630922,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 41:3,-619,791943,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 85:9,619,907454,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 1:7,-620,91964,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 11:12,621,855117,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 9:16,-622,360918,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 129:5,-622,932536,3,סינ,0.0,0.0,false,0.0
+סינ,Habakkuk,Habakkuk 1:2,624,838032,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 34:33,-625,993289,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 30:6,631,966061,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 42:24,632,619992,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 83:18,-634,906708,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 26:4,637,600691,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 31:92,-637,210661,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 16:16,641,980089,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 22:12,-644,285008,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 22:13,-645,984194,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 41:32,-647,99361,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 22:22,647,226450,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 3:37,-649,1084686,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 2:66,-654,1066958,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 40:7,-655,789209,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 68:33,658,896196,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 1:21,659,345975,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 41:16,-661,709238,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 16:3,-666,372236,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 62:46,-668,233920,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 12:82,670,109210,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 6:1,-676,1021276,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 30:8,678,1189890,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 9:28,-680,1038944,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 11:22,-680,1098104,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 12:1,686,1163456,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 20:14,-690,755864,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 9:1,-691,825317,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 21:12,-694,1134154,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 54:6,694,889014,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:17,695,1088370,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 91:9,695,221010,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 41:13,697,212585,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 4:17,701,649827,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 2:11,-703,222423,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 31:9,-705,607394,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:52,708,244968,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 2:2,710,188860,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 4:1,-710,862754,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 24:23,-711,765248,3,סינ,0.0,0.0,false,0.0
+וטו,Habakkuk,Habakkuk 1:17,712,838736,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:29,-714,1023032,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 54:8,-717,69143,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 21:19,-717,525155,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 9:32,718,1094950,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 89:2,718,908988,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 36:12,728,700336,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 27:31,729,1143801,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 47:5,-729,885614,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 21:20,-730,983444,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 10:6,733,948502,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 31:72,736,210496,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 39:27,-737,788522,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:1,737,67067,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 30:15,-737,605746,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 6:29,741,972933,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 10:31,-742,548446,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 50:7,-746,887074,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 51:16,749,629909,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 25:3,749,961716,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 12:8,-752,662008,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 13:1,-757,856369,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 8:62,-758,152268,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 99:3,762,914400,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 12:28,-763,1099549,3,סינ,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 5:5,-766,808218,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 16:23,-768,373640,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 1:17,769,479087,3,סינ,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 3:12,778,1068194,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 61:11,-779,166544,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 47:5,-783,885614,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 11:22,784,503328,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 53:13,-786,248834,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 3:10,788,1044888,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 2:23,788,531900,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 39:26,-796,788464,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 24:12,-799,985462,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 51:13,801,165807,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 51:56,-803,726922,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 16:7,805,513590,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 64:91,-806,71132,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:12,810,1037610,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 8:26,811,1057544,3,סינ,0.0,0.0,false,0.0
+סינ,Malachi,Malachi 1:8,811,858849,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 64:6,-812,641028,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 13:41,-816,125432,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 8:5,-817,584810,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 18:17,-820,562604,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 37:17,824,702872,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 23:11,825,571725,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 28:23,832,431808,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 109:10,-833,922239,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 46:12,-841,800586,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 17:14,848,559680,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 1:4,849,252153,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 3:3,850,942650,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 6:6,852,1071816,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 15:28,-852,1127300,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 91:1,-853,106155,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 14:32,858,592020,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 10:28,864,501984,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 53:2,-873,50873,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 26:20,876,1184352,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 19:29,876,334632,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 18:17,-883,376222,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:45,-890,519554,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 9:13,-892,1093480,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 26:23,-895,1184599,3,וטו,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 3:9,-895,1008284,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 25:26,-897,1182905,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 4:20,-898,1048256,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 97:10,904,913944,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 22:22,-908,597916,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:11,-921,761942,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 24:2,924,764148,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 17:10,926,1129720,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 52:7,927,288297,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 12:12,931,367745,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 9:91,-946,204862,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 25:11,-950,1181714,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 41:11,-953,16651,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 44:8,955,712430,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 2:17,956,579336,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:7,-957,1089020,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 92:12,960,296640,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 25:21,-961,1140229,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 41:18,965,998775,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 18:32,966,518742,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 84:1,-967,74420,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 52:2,968,32912,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:39,968,366872,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 47:1,969,625005,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 18:23,-980,1171404,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 26:21,986,601460,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 126:6,-986,932014,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 92:12,992,296608,3,וטו,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 3:17,-992,861384,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 11:1,994,949270,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 53:21,-999,131477,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 12:20,-1003,950697,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 43:7,1005,304515,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 50:32,-1007,723187,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 17:21,-1017,955157,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 68:5,-1017,895154,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 62:42,1018,35630,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 31:1,1019,875321,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 11:3,-1023,949331,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 11:43,1028,208684,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 17:21,1032,752328,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:42,1032,763680,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 5:14,-1038,1020920,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 17:11,1042,867986,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 118:28,1044,926028,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 5:5,-1048,581312,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 2:30,1049,1042706,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 2:36,1050,387450,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 10:15,1071,501228,3,וטו,0.0,0.0,false,0.0
+סינ,Habakkuk,Habakkuk 2:20,-1075,839714,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:41,-1083,1063268,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:18,1084,1188064,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 6:22,-1099,262293,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 2:31,-1105,2284,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 4:32,-1107,257810,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 5:7,-1110,146684,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 81:22,1110,169830,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 1:29,1112,941864,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 4:17,-1112,944088,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 2:11,1118,531050,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 20:21,-1125,1174289,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 23:26,1128,573024,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 3:4,-1141,1067517,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 94:5,-1159,912313,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 32:21,1161,693117,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 21:30,-1163,337724,3,וטו,0.0,0.0,false,0.0
+סינ,Jonah,Jonah 4:10,1169,829990,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 11:30,1171,1098398,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 4:8,-1179,193028,3,סינ,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 9:13,-1180,853524,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 9:9,1184,974432,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 7:3,-1186,1088744,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 64:1,1191,70269,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 1:5,1192,91784,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 28:21,1199,431640,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 28:5,-1204,1185348,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 18:37,-1204,564084,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 6:25,-1210,1154954,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 20:31,1210,381150,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 1:71,-1211,250897,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:82,1222,68432,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 14:8,-1222,456712,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 1:5,-1229,968067,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 7:9,-1249,313968,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 6:17,1252,1111776,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 29:6,-1259,1187264,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 24:5,-1263,764285,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 6:11,1265,1052480,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 13:19,-1266,369026,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:11,1269,158625,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 32:30,1271,776581,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 13:92,-1271,240795,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 31:6,1273,607221,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:35,1275,188700,3,סינ,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 2:6,1298,1000758,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:63,1314,187902,3,סינ,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 2:10,-1316,385836,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 23:29,1320,1137840,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 54:21,-1322,69390,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 26:5,-1324,428008,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 53:9,1324,631548,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 73:23,-1326,55766,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 15:1,1327,406062,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 1:16,-1330,530204,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 23:3,-1333,301741,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 51:8,1345,629460,3,סינ,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 72:6,1350,184950,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 64:13,1352,71656,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 62:12,-1353,639725,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 30:6,1353,966042,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 3:4,-1355,1018554,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 2:32,-1368,223088,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 6:1,-1373,1033738,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 15:19,1374,1167900,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 13:5,1378,866762,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 94:51,-1389,75848,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 28:4,-1404,430556,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 43:8,-1420,711524,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 79:6,-1424,904568,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 62:9,1434,639564,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 104:1,-1441,916672,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 18:23,1443,376623,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 72:61,-1447,36965,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 19:4,-1449,754484,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 85:8,-1452,907388,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 9:10,-1455,544409,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 2:15,-1459,482205,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 106:30,1460,919800,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 82:33,-1464,119984,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 2:45,1466,1043792,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 23:18,1468,598944,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 13:6,-1473,124982,3,וטו,0.0,0.0,false,0.0
+וטו,Obadiah,Obadiah 1:12,-1474,826846,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:45,1476,160884,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:1,1484,161756,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 32:10,-1491,876599,3,וטו,0.0,0.0,false,0.0
+וטו,Obadiah,Obadiah 1:7,-1498,826654,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 97:10,-1504,913928,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 14:2,1506,456318,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 20:21,-1511,522324,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 20:10,1512,521640,3,סינ,0.0,0.0,false,0.0
+וטו,Amos,Amos 8:13,1531,825209,3,וטו,0.0,0.0,false,0.0
+סינ,Nahum,Nahum 1:10,-1539,836123,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 11:14,-1541,450976,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 9:51,1558,363014,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:42,1574,187306,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 91:4,-1587,22394,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 34:22,-1601,66292,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 13:22,-1615,326049,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 4:7,-1643,350597,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 7:13,-1666,946396,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 23:1,-1671,126287,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 19:7,-1671,1132229,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 37:21,1676,613416,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 92:82,1678,297006,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 13:2,-1684,1124240,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 91:13,1699,171599,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 2:6,-1699,836615,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:8,-1706,161600,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 2:13,-1707,1012349,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 6:7,-1716,353648,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 20:8,1728,1173312,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 25:18,1762,576174,3,וטו,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 1:10,1766,1064898,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 7:94,1774,200462,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 2:2,1775,578650,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 14:2,-1776,951656,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 18:4,-1780,516884,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 66:20,-1784,643912,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 1:26,-1819,731210,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 11:14,1844,949660,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 33:7,1867,48542,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 6:21,-1872,392648,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 13:25,-1875,663914,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 19:7,1875,956250,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 37:19,1888,879808,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 9:16,1892,586520,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 19:29,-1903,956910,3,סינ,0.0,0.0,false,0.0
+וטו,Joel,Joel 1:13,-1905,814904,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 2:28,-1907,1042560,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 38:11,1908,704052,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 8:14,-1919,447763,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 8:26,-1920,1057544,3,סינ,0.0,0.0,false,0.0
+וטו,Amos,Amos 8:3,-1931,824615,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 15:33,1959,979500,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 28:13,-1968,964568,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 18:6,-1971,980816,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 14:13,-1973,370183,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 18:19,2002,868868,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 15:31,2003,979467,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 51:9,-2022,17720,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 51:64,-2022,727442,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 50:45,-2038,723940,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 85:7,-2038,907360,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 17:10,-2044,374916,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 12:10,2058,856128,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 9:24,-2078,396632,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 5:4,2083,808204,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 62:2,2095,289110,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 2:7,2101,1149247,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 7:11,-2102,946316,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 13:29,2103,508926,3,סינ,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 2:8,-2115,859784,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 2:21,2117,438219,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 2:10,-2126,531000,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 44:9,-2126,883916,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:14,2143,293591,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 67:5,-2147,894928,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 62:23,-2148,116864,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 14:13,2155,327560,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 102:23,2165,915795,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 31:1,2173,966985,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 24:27,-2184,765488,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 18:14,-2184,562376,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 8:52,-2201,89422,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 9:15,-2206,1117620,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 41:52,-2210,212234,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 31:6,-2211,607220,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 14:4,2216,62048,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 44:18,-2219,713338,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 18:20,-2249,1171257,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 1:12,-2253,1016681,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 28:15,-2264,964616,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 25:4,2265,575310,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 6:6,2296,489048,3,וטו,0.0,0.0,false,0.0
+וטו,Obadiah,Obadiah 1:11,2316,826812,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 6:4,2335,7005,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 8:7,-2338,1056562,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 51:8,2340,629460,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 37:20,-2345,995284,3,סינ,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:2,2358,837090,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:29,-2361,693695,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 23:1,-2372,125712,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 1:5,2387,205282,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 93:2,-2397,58622,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 4:15,-2399,1069428,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 7:9,2409,149358,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 16:17,-2424,558560,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 3:9,2430,942840,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 14:1,-2438,60528,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 40:28,2440,617320,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 12:8,-2444,662008,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 8:41,-2447,151460,3,וטו,0.0,0.0,false,0.0
+סינ,Habakkuk,Habakkuk 2:20,-2451,839714,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 37:13,2451,995106,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 20:9,-2488,982296,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 41:5,-2514,708290,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 34:31,2518,780580,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 22:19,-2532,339908,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 37:12,2558,995062,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 7:21,2559,655104,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 22:14,-2568,1136312,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 66:15,-2575,894639,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:84,-2589,192500,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 11:2,-2637,1119920,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 22:2,2661,569454,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 4:4,-2672,1084952,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 6:21,-2678,354610,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 59:19,2688,637056,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 14:23,2689,591580,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 15:16,2694,328668,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 4:16,2698,1152046,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 12:1,-2723,1098534,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 4:2,-2736,820904,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 10:12,2768,501008,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:24,2772,365904,3,וטו,0.0,0.0,false,0.0
+סינ,Amos,Amos 7:12,2775,824175,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:43,2791,1063371,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 5:8,2803,442874,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 43:21,-2822,246642,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 5:3,2828,390264,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 37:13,-2837,995106,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 21:7,-2848,94312,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 19:7,2859,1132164,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 45:7,2863,884667,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 24:14,-2878,1179994,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 30:5,-2898,966038,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 72:23,-2908,186232,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 9:30,-2910,545864,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 33:16,-2920,695824,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:2,2923,1087356,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:31,-2925,749264,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:3,-2925,58964,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 13:21,2946,44190,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 9:51,2951,362973,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 49:21,2986,886842,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 43:5,-2991,49361,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 13:81,2996,299600,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 7:23,-2997,150458,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 38:13,3001,786262,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 7:8,3022,540938,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:7,-3025,581414,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 1:31,-3025,154889,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 34:9,-3052,877516,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 5:91,3066,196224,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 5:6,3074,1152750,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 38:5,3089,614711,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 52:52,3094,114478,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 59:6,3095,891360,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 20:4,-3099,870410,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 32:34,-3106,178456,3,סינ,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 4:10,-3138,389354,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 24:21,-3158,985790,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 8:2,3188,946836,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 12:12,3189,283821,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 43:13,-3190,130744,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 9:10,3257,586260,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 12:11,-3259,505445,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 20:39,-3265,757469,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 20:25,-3295,522519,3,וטו,0.0,0.0,false,0.0
+וטו,Haggai,Haggai 2:9,-3316,845068,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 1:2,3338,383870,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 62:93,3349,184195,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 25:22,-3370,426164,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 21:32,-3375,272039,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:32,3379,175708,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 89:6,3405,909135,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 15:6,-3409,371115,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 9:6,3417,498882,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 33:26,-3424,696328,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 119:87,-3427,928272,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 9:20,-3442,865318,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 11:26,3448,451688,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 13:9,3451,552160,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 3:23,3462,349662,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 5:8,-3472,390680,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 118:3,-3520,925384,3,סינ,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 6:3,-3534,391238,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 51:6,-3536,213560,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 1:21,3576,969096,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 3:1,-3598,647384,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 78:18,-3611,902696,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 55:12,3619,633325,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 30:5,-3638,1189598,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 39:8,-3638,996784,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 26:7,3645,1140885,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 72:41,-3646,291026,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 7:33,-3650,150514,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 6:3,3697,1153464,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 15:12,-3732,371492,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 1:11,3751,577654,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 22:16,-3754,959116,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 42:3,-3771,709547,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 26:8,-3778,873490,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 16:27,3786,514896,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 6:15,3796,539032,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 6:13,-3817,1072388,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 46:23,-3830,801324,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 29:13,3831,965412,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 12:17,3846,976884,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 22:1,3854,420086,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 2:35,3863,1043010,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 10:2,3878,1039304,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 6:28,-3879,1155227,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 30:13,3928,1190184,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 20:23,-3940,1174364,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 21:31,-3957,759521,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 9:21,-3988,658528,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 21:14,4004,472472,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 71:41,-4004,168892,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 21:26,-4017,958499,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 30:12,4037,605550,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 30:17,-4066,1190454,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 61:51,4068,166788,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:3,-4095,58964,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 10:4,-4099,975300,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 7:2,4104,262656,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 3:4,-4118,307818,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 7:24,4122,737838,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 21:27,4133,983654,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 10:6,4180,363660,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 5:39,-4242,1111232,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 5:4,-4244,83792,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 15:28,4250,556750,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 85:5,-4314,907304,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 7:26,4316,1022892,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 109:3,4329,922077,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 74:92,4339,73763,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 9:20,4423,499799,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 15:13,4424,371616,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 11:3,4431,398790,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 4:32,4445,257810,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 22:42,-4452,28304,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 7:19,4460,584260,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 15:4,-4461,555293,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 1:12,-4488,1148288,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 7:12,4492,1073588,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:3,-4494,172028,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 3:22,4500,580500,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 6:16,-4609,444739,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 41:2,-4624,162424,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 36:12,-4642,782164,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 41:7,4647,274173,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 65:4,-4664,641408,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 80:11,4666,905204,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 1:14,-4672,1148424,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 8:39,4673,1116847,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 2:15,4688,806336,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 20:25,-4718,522546,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 22:11,-4813,1177397,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 4:3,-4830,58964,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 4:31,-4848,1108808,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 51:3,-4871,213459,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 10:16,-4930,547474,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 15:16,4948,1167728,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 61:91,4958,277648,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 14:17,4969,591311,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 60:8,-4979,892095,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:62,4981,159392,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 35:9,5006,780936,3,וטו,0.0,0.0,false,0.0
+וטו,Joel,Joel 2:11,-5008,815864,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 3:4,-5025,942689,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 52:92,5027,180972,3,וטו,0.0,0.0,false,0.0
+וטו,Joel,Joel 2:20,-5028,816392,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 107:4,5030,920490,3,וטו,0.0,0.0,false,0.0
+סינ,Zephaniah,Zephaniah 1:2,-5032,840656,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 38:14,5042,615124,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 18:35,-5063,869308,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:1,-5084,244608,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 2:4,5099,107079,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 21:14,-5110,1176164,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 22:51,-5118,110420,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 12:22,5143,401154,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 7:16,-5148,357080,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 129:4,5152,932512,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 49:7,5176,719464,3,סינ,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:10,5196,1013220,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 12:3,5313,1163547,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 47:9,5368,885720,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 3:5,5385,387720,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 9:19,-5406,1093922,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 12:2,-5418,550238,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 73:5,-5442,54290,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 81:9,5462,169322,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 53:5,-5467,51082,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 44:26,-5477,797971,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 12:3,5503,742905,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:55,5649,1090257,3,סינ,0.0,0.0,false,0.0
+סינ,Song of Songs,Song of Songs 2:14,-5672,1001112,3,סינ,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 16:27,-5746,954352,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 22:20,5748,597792,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 93:21,5824,58240,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 48:16,-5834,717524,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 1:12,-5841,1148288,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:71,5885,158895,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 51:16,5887,629909,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 28:28,-5899,603591,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 13:45,5902,241982,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 22:12,-5941,760405,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 23:31,-5948,301016,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 25:4,6001,600100,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 34:91,6014,66154,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 49:8,6046,719474,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 22:19,-6124,760732,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 15:33,6152,953560,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 22:23,6153,473781,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 34:32,-6165,993254,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 7:36,-6173,1115482,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 7:3,-6222,356054,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 18:12,6270,413820,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 15:18,-6274,556110,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 40:17,6294,616812,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 23:31,6322,1137960,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 21:26,6326,569340,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 7:63,-6332,150708,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 17:3,-6346,330780,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 3:32,-6364,943516,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 23:12,-6442,422352,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 116:13,6469,925067,3,וטו,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 6:14,6500,1072500,3,סינ,0.0,0.0,false,0.0
+סינ,Amos,Amos 4:2,-6560,820904,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 15:12,6569,328450,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 20:30,6570,381060,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 5:21,6581,822625,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 31:39,-6584,691704,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 61:41,-6602,166726,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 18:11,6683,955669,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 12:11,6757,1027064,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 9:4,6779,1159209,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 3:36,6804,1013796,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 11:4,6806,660182,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 107:31,6824,921240,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 125:3,-6831,931676,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 22:10,6867,569961,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 7:7,6960,654240,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:73,6982,139640,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 40:3,6997,706697,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 5:20,-7050,582014,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 37:27,7097,880028,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 2:18,7130,1105150,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 26:11,7169,767083,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 9:13,-7175,1117539,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 30:8,-7208,688472,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 12:18,-7321,1122712,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 9:14,7330,586400,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 17:13,7332,593892,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 4:7,7379,140201,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 10:25,7379,501772,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 1:17,7398,1028322,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 21:12,-7427,382994,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 62:71,7440,290160,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 2:7,-7463,24673,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:9,-7490,175024,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 44:14,7492,884056,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 36:10,-7576,700200,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 7:6,-7578,540734,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 21:2,-7627,524042,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 48:22,7636,717784,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 7:21,-7658,357458,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 3:12,-7659,1031243,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 44:14,-7671,884066,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 7:6,7708,393108,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 19:1,7757,333551,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 62:81,-7785,35339,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 73:23,-7841,899811,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 33:19,-7856,1196344,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 6:51,7908,197700,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 4:7,7917,862953,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 6:37,-7934,490742,3,סינ,0.0,0.0,false,0.0
+רוסיה,Psalms,Psalms 55:7,7940,889280,5,רוסיה,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 4:17,-7972,1009940,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 3:52,-7997,191321,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 64:41,-7999,70898,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 15:10,-8017,371332,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 24:91,-8029,63878,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 12:9,-8040,173864,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 1:9,-8054,154676,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 41:82,-8119,99651,3,סינ,0.0,0.0,false,0.0
+רוסיה,Jeremiah,Jeremiah 51:11,8141,724549,5,רוסיה,0.0,0.0,false,0.0
+רוסיה,Deuteronomy,Deuteronomy 5:82,-8163,261086,5,רוסיה,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 12:35,8208,1099872,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 2:1,-8312,862104,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 28:13,-8315,1185999,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 8:10,-8338,358444,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 2:20,-8473,646295,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 9:41,-8560,153624,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 73:82,-8617,55541,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 28:18,-8620,770344,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:12,-8672,138888,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 27:4,-8695,429734,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 1:6,8762,1016392,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:31,-8775,749264,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 31:5,8803,272893,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 12:6,8962,367442,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 1:20,-9015,969044,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 38:14,9029,704262,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 16:4,9035,867360,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 7:10,-9060,973244,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 30:4,-9072,772376,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 31:8,-9081,435218,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 44:14,9114,884058,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:9,9136,712608,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 9:2,9151,265379,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 17:13,-9165,668729,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 22:2,-9173,1135440,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 33:31,9194,303402,3,סינ,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 9:8,9199,395557,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 8:26,-9220,1057544,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 30:8,-9222,688472,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 19:30,9250,379250,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 19:5,-9280,671304,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 1:11,9317,577654,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:14,-9328,692712,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 6:71,9421,197841,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 8:26,9695,1076145,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 3:28,9767,1084137,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 72:6,-9987,184952,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 8:32,-10050,947714,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 103:4,10067,916097,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 53:72,10171,132223,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 6:13,-10173,1088132,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 25:27,-10266,1182980,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 137:2,-10281,935126,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 21:33,-10310,983834,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 10:5,10313,319703,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 13:71,-10334,299558,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 27:9,-10475,601864,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 8:15,10523,852363,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 92:12,-10526,121666,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 9:11,-10580,1159744,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 53:51,-10591,248104,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 26:8,10605,986265,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 93:5,10623,138099,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 7:21,10676,149464,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 15:3,-10755,867164,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 41:4,10762,882484,3,סינ,0.0,0.0,false,0.0
+וטו,Zephaniah,Zephaniah 3:10,-10781,843002,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 22:6,10898,1176984,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 3:26,10932,349824,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:9,11072,741824,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 41:2,-11094,212000,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 13:13,11119,744973,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 40:2,-11120,997464,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 9:11,-11194,1024756,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:52,-11342,173312,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 13:18,11360,1101920,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 13:2,-11367,1124240,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 63:31,-11597,133532,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 5:11,11671,735273,3,סינ,0.0,0.0,false,0.0
+סינ,Ezra,Ezra 1:4,11698,1064518,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 93:2,11721,58605,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 21:31,11831,94648,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 30:8,-11832,688472,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 1:13,-11869,577729,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 40:12,-11889,789431,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 5:2,-11911,84548,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 23:12,-11985,959894,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 11:19,11991,1163127,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:54,-12036,293732,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 28:17,12061,603050,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 42:17,12151,619701,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:4,12152,291648,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 28:6,-12194,430608,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 9:28,-12217,1160776,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 36:8,-12225,879089,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:42,12246,159198,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 32:71,-12266,29168,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 6:91,12371,197936,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 17:21,-12399,752360,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 9:4,12471,810615,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 119:109,-12673,928824,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 32:73,12721,178094,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 9:25,12908,361424,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 22:12,12954,284988,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 34:20,-12986,877812,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 11:5,-13140,155624,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 17:29,13265,464275,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 63:1,13276,132760,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 12:10,13377,856128,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 28:2,13450,874250,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 21:14,-13613,472460,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 16:22,13615,748825,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 48:1,-13621,716774,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 11:92,-13634,156610,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 9:15,13647,1159995,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 123:3,-13667,931306,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:25,-13697,1038662,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 8:13,-13718,1092148,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 6:7,-13727,391513,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 49:25,13855,720460,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 29:12,14053,604279,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 5:9,14110,1086470,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 6:9,14396,863760,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 21:32,-14428,759568,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:24,-14433,1062251,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 32:34,-14580,178484,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 61:5,-14637,215498,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 10:7,-14701,1119408,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 55:1,-14719,632673,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 4:5,14835,192855,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 52:7,-14849,888385,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 78:32,-14850,903164,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 35:10,14885,878215,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:46,-14922,405698,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 29:1,-15155,987899,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 11:13,-15222,450908,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 28:28,-15571,603558,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:18,-15616,365448,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 20:2,15632,672176,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 23:22,-15831,422888,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 89:25,-15891,909749,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 32:82,-16046,177604,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 5:52,-16167,196628,3,וטו,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 7:14,16200,1004400,3,וטו,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 4:10,-16371,1009517,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 51:9,16438,213694,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 34:13,-16454,609890,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 1:12,-16462,1103102,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 62:10,-16494,639638,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 34:81,16514,66056,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 19:39,-16556,469180,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 89:15,-16665,909434,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 135:4,16676,933856,3,סינ,0.0,0.0,false,0.0
+וטו,Amos,Amos 7:16,-16691,824367,3,וטו,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 14:18,16827,858177,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 73:1,16850,134800,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 56:11,-16995,634049,3,וטו,0.0,0.0,false,0.0
+וטו,Song of Songs,Song of Songs 6:6,17010,1003590,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 83:81,17133,137064,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 26:21,17184,601440,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 71:14,17272,898144,3,סינ,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 2:9,-17299,385754,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 7:29,17426,1115264,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:2,17442,244188,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 31:17,-17446,1192486,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 39:27,-17506,997340,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 28:10,-17632,602632,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:21,-17732,1038332,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 15:12,-17747,1126302,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 19:21,-17774,378552,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 50:13,18107,887243,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 42:7,-18227,229326,3,וטו,0.0,0.0,false,0.0
+סינ,Lamentations,Lamentations 5:22,18476,1016180,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 7:7,-18520,1035184,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 2:6,-18530,645564,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 25:26,-18560,680584,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 26:7,-18646,1140886,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 8:6,18701,542329,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 8:11,-18788,1115992,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 47:1,18940,625020,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 6:4,-18951,1051967,3,וטו,0.0,0.0,false,0.0
+וטו,Joel,Joel 2:18,18983,816269,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 62:81,-18994,290186,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 42:1,-19040,229064,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 31:1,19150,689400,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:52,-19205,175804,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 38:12,-19275,786164,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 53:2,-19503,50873,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 31:3,-19768,1191480,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 2:4,19960,578840,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 13:18,20144,745328,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 19:14,-20252,1132584,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 23:1,-20269,300875,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 12:35,20368,1099872,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 19:29,-20439,982031,3,וטו,0.0,0.0,false,0.0
+סינ,Hosea,Hosea 14:4,-20520,814064,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 4:3,20605,350285,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 13:6,20711,662752,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 24:24,20781,477963,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 7:14,-20865,356924,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 144:13,-20921,938456,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 11:21,20969,503256,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 6:10,20980,1153900,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 112:9,20994,923736,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 71:91,-21329,279002,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 17:3,-21482,374478,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 33:8,21733,608524,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 5:17,21742,1087100,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 16:4,21951,592677,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 1:1,21997,967868,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 1:3,22048,1080352,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 13:23,-22192,1165944,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 21:2,22227,1133577,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 142:8,-22337,937499,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 55:3,22601,632828,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:1,22776,364416,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 72:9,-22825,185139,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 83:81,22842,137052,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 41:16,-22998,792764,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 1:83,-23088,187976,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 6:16,23155,1088285,3,סינ,0.0,0.0,false,0.0
+וטו,Amos,Amos 1:2,23382,818370,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 2:22,-23393,1030337,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 16:14,23500,1128000,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 1:5,-23760,1039784,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 11:10,-23815,1061509,3,וטו,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 74:61,24275,72825,3,סינ,0.0,0.0,false,0.0
+סינ,Zechariah,Zechariah 12:10,-24694,856128,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 31:4,24798,272778,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 22:43,-24812,528380,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 11:15,-24850,1097764,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 7:24,24913,946694,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 12:5,24943,324259,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 51:31,25089,100356,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 145:6,-25098,938744,3,סינ,0.0,0.0,false,0.0
+וטו,Malachi,Malachi 2:16,-25171,860311,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 12:5,-25279,223692,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 6:26,25348,354872,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 22:12,-25418,570092,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 5:5,-25513,1049709,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 5:2,-25619,1020380,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 101:5,-25692,914984,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 2:21,25757,1030280,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 71:1,25802,103208,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 27:1,-25822,1142182,3,סינ,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 14:6,-25841,857342,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 1:12,-25884,1010840,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 19:27,26026,468468,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 22:19,26148,339924,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 8:2,-26206,946836,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:2,-26416,67128,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 8:2,26432,264320,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 31:31,26462,158772,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 5:8,26496,1086336,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 3:54,-26520,192344,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 8:12,-26581,1092072,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 14:19,-26614,665192,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 32:9,-26653,876544,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 2:13,26738,347594,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 144:14,26814,938490,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 43:32,-26914,247082,3,סינ,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 10:11,-26932,1161636,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 84:9,-27077,74351,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 1:16,-27105,478994,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 2:23,27155,190085,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 42:7,-27196,229316,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:12,27210,244890,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 83:71,-27359,136970,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 32:9,27392,876544,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 68:7,-27563,895270,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 7:29,-27580,1115264,3,סינ,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 6:16,-27803,1052968,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 55:2,-27871,632727,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 61:8,27891,892512,3,סינ,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 12:22,-28116,1099184,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 63:11,-28215,249764,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 6:15,28370,539030,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:7,-28512,174920,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 23:28,-28531,573176,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 43:9,-28738,304598,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 1:41,-28920,1103984,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 37:22,-28940,785064,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 20:8,-28986,957140,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 11:5,-29152,1097256,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 3:13,-29394,1031450,3,וטו,0.0,0.0,false,0.0
+רוסיה,Job,Job 3:4,-29473,970055,5,רוסיה,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 37:9,-29705,784169,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 119:3,29875,926125,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 62:34,-29995,232949,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 13:5,30661,551898,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 2:15,30694,306940,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:5,30715,245720,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 30:15,-30795,433709,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 14:26,-30839,554909,3,וטו,0.0,0.0,false,0.0
+וטו,Nahum,Nahum 3:3,31005,837135,3,וטו,0.0,0.0,false,0.0
+וטו,Joel,Joel 4:9,31446,817596,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 28:18,-31514,1186328,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 23:8,31542,126168,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:42,-31552,175752,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 44:6,-31834,796640,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 18:17,31846,413998,3,וטו,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 24:73,32468,64936,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 36:7,-33289,611104,3,וטו,0.0,0.0,false,0.0
+סינ,Jonah,Jonah 4:5,-33727,829673,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 9:7,-33961,448380,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 1:34,-34014,480062,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 2:3,34410,172050,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 71:1,34593,103779,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 18:32,34769,869225,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 71:61,34852,278816,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 48:26,34977,804471,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 1:18,-34991,578015,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 103:9,35240,916240,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 10:12,-35271,1025618,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 32:4,-35288,178264,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:9,-35494,238952,3,סינ,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 9:2,35540,852960,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 82:72,-35547,236408,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 52:8,-35726,727980,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 10:3,35841,1039389,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 10:29,35860,502040,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 71:6,35916,897900,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 9:14,-35918,865124,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 49:36,36054,721080,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 29:2,36109,686071,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 12:51,36228,108684,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 20:18,-36270,673214,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 40:12,36272,616624,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 6:23,36307,653526,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:60,36361,727220,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 30:11,-36561,772712,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 12:5,-36634,1026814,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:13,36635,293080,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 17:8,-36824,1169360,3,וטו,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 1:1,37228,1005156,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 12:16,37731,452772,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 92:61,-37894,237434,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 21:1,38312,957800,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 2:15,38536,847792,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 24:20,38599,424589,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 36:7,-38834,699976,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 11:26,-38894,503586,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 9:13,-39347,1037683,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 4:16,-39568,1032600,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 9:4,-39789,947939,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 10:27,-39840,588104,3,וטו,0.0,0.0,false,0.0
+סינ,Malachi,Malachi 1:10,-40137,858965,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:4,-40436,244352,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 9:25,40747,1059422,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 28:16,-40751,964640,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 69:18,40768,896896,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 25:5,-40870,961784,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 43:6,41064,246384,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 4:12,41111,534443,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 81:4,41162,905564,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 42:21,41325,619875,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 2:21,-41472,1030280,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 4:4,-41693,441716,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 108:8,41900,921800,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 83:72,-41979,137567,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 136:25,-41984,935048,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 10:2,42030,546390,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 12:1,42095,589330,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 51:7,42274,887754,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 21:23,42762,983526,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 28:7,43069,430690,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:9,-43111,692445,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 94:4,43442,912282,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 19:20,-43459,595435,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 13:83,-43627,241211,3,סינ,0.0,0.0,false,0.0
+וטו,Habakkuk,Habakkuk 1:10,44127,838413,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 11:16,-44191,661125,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 42:19,44422,710752,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 23:3,-44751,242126,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 19:5,-45037,1131998,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 9:6,45038,360304,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:46,-45175,497064,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 7:10,-45352,491400,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 32:29,45679,776543,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 42:51,-45735,113264,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 1:11,46124,92248,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 35:10,46223,878237,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 4:22,-46341,1108526,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 2:3,-46349,969335,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 7:16,46353,973413,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 4:17,46943,1032746,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 8:12,-47005,203479,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 4:72,47032,141096,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 82:2,-47119,906046,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 20:5,47390,521290,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 4:12,-47416,140856,3,סינ,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 5:2,47534,808078,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 8:3,48027,864486,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 6:30,-48104,355232,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 22:8,48431,339017,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 71:4,-49709,103431,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 14:7,49744,746160,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 72:33,-50181,186329,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 29:1,-50250,987914,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 16:2,-50663,372111,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 49:1,-50983,719072,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 3:41,51073,255365,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 42:21,-51324,710888,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 13:8,-51604,239732,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 7:5,51849,1088829,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 6:3,51917,311502,3,סינ,0.0,0.0,false,0.0
+סינ,Ruth,Ruth 3:3,-51928,1007960,3,סינ,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 2:12,-51973,1007150,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 7:2,-52464,263816,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 31:27,-52913,990230,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 2:11,53108,531080,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 28:16,-53291,770262,3,סינ,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 91:12,53379,106758,3,סינ,0.0,0.0,false,0.0
+וטו,Ezra,Ezra 3:11,53405,1068100,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 30:10,-53488,605464,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 8:13,-53623,494843,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 28:11,53874,430992,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 24:14,-54474,1180028,3,סינ,0.0,0.0,false,0.0
+סינ,Judges,Judges 1:35,-55030,346794,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 61:2,55334,166002,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 19:45,55863,335178,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 2:6,56216,1011888,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 22:18,56632,339792,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 13:1,-56795,125224,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 104:31,-56947,917618,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:21,57120,742560,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 10:15,-57309,1025720,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 32:4,57670,692040,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 3:15,58073,1045314,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 31:37,58266,990522,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 20:10,58797,470376,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 17:52,-58842,412772,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 143:7,-59111,937777,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 17:19,-59162,463614,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 14:24,59166,591660,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 24:32,-59187,344615,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 125:3,-59468,931708,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 55:6,-59532,632960,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 32:7,59631,775203,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 8:8,-59809,447439,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 9:14,-60650,1093564,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 16:16,60704,667744,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 82:86,-61017,295205,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 3:1,-61441,1082490,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 45:11,62349,623490,3,וטו,0.0,0.0,false,0.0
+וטו,Joel,Joel 2:27,62833,816829,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 7:21,62976,314880,3,סינ,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 21:16,-63443,420032,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 35:6,63491,698401,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 62:4,63761,892654,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 18:18,-64295,1171124,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 10:14,-64911,449711,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 9:6,-64987,317989,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 19:2,-67051,869848,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 7:37,67166,201498,3,וטו,0.0,0.0,false,0.0
+סינ,Exodus,Exodus 73:21,67637,135274,3,סינ,0.0,0.0,false,0.0
+וטו,Genesis,Genesis 44:31,67661,67661,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 91:4,-68165,170374,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 17:2,68264,409584,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 3:51,-69173,144166,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 33:25,69624,696240,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 8:4,-69763,1035745,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 14:6,69861,978054,3,וטו,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 21:18,-69995,472769,3,סינ,0.0,0.0,false,0.0
+סינ,Amos,Amos 5:17,-70013,822456,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 6:25,70239,1053585,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 41:7,70424,211272,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 9:17,-70609,318657,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 12:30,-70907,453617,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 3:22,-71887,648698,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 30:28,72426,434556,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 51:11,72453,724530,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 5:7,72658,944554,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 55:12,-72744,633272,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 46:23,72847,801317,3,סינ,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 11:4,-73639,322606,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 5:10,-74375,1050164,3,וטו,0.0,0.0,false,0.0
+סינ,Daniel,Daniel 5:20,75076,1051064,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 28:21,75403,603224,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 84:9,75586,907032,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 4:18,-75778,351326,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:2,-76161,724088,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 14:32,-76165,952519,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 4:8,76321,534247,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 94:92,76381,76381,3,סינ,0.0,0.0,false,0.0
+סינ,Genesis,Genesis 5:8,77030,77030,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 8:10,-79211,358444,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 80:3,-79822,904978,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 45:2,79839,798390,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 46:2,79995,799950,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 1:1,-80855,729839,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 8:20,81179,974148,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 5:14,81264,487584,3,וטו,0.0,0.0,false,0.0
+סינ,I Samuel,I Samuel 15:6,81288,406440,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 24:3,-81451,476546,3,סינ,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 16:3,-81479,557521,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 23:21,-81491,475826,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 33:9,-81972,303224,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 82:75,-82408,294504,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 4:72,83320,83320,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 20:3,-83618,521158,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 5:9,84052,84052,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 71:61,84493,168986,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 1:12,-84706,1010898,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 143:8,85256,937816,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 7:2,-85404,1088624,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 11:15,-85749,742178,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 41:23,-85797,998897,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 15:31,-86604,557000,3,סינ,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 82:75,-86745,294509,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 12:42,87253,174506,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 4:13,-87306,807686,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 57:1,-87690,890384,3,וטו,0.0,0.0,false,0.0
+רוסיה,Jeremiah,Jeremiah 43:12,-87917,711826,5,רוסיה,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 3:25,88109,440545,3,וטו,0.0,0.0,false,0.0
+סינ,Leviticus,Leviticus 52:51,90147,180294,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 52:61,90179,180358,3,וטו,0.0,0.0,false,0.0
+סינ,Job,Job 36:13,90382,994202,3,סינ,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 52:52,90389,180778,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 10:2,91071,546426,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 2:28,-91223,483096,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 23:27,-91307,573059,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 8:40,-91751,1116905,3,וטו,0.0,0.0,false,0.0
+וטו,Jonah,Jonah 4:11,-92713,830108,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 35:14,-92811,1200176,3,וטו,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 21:6,94234,94234,3,וטו,0.0,0.0,false,0.0
+וטו,Hosea,Hosea 9:11,-94305,811004,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 6:8,94473,850257,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 11:24,94992,949920,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 14:20,95039,665273,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 23:5,-95596,1177896,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 55:20,-95725,889689,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 20:28,95772,957720,3,סינ,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 1:37,96050,480250,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 19:6,-96281,594730,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 27:6,97101,873909,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 4:7,97258,486290,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 82:41,97399,292197,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 26:13,97469,682283,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 31:25,-97503,967634,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 82:4,97853,293559,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 10:9,-97908,865676,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 10:34,98063,588378,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 23:13,-98274,959924,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 32:25,99063,693441,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 7:91,99614,199228,3,סינ,0.0,0.0,false,0.0
+וטו,Exodus,Exodus 41:3,99770,99770,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:11,100847,403388,3,וטו,0.0,0.0,false,0.0
+סינ,Ecclesiastes,Ecclesiastes 12:4,-101776,1026680,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 48:29,-102049,718076,3,וטו,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 5:7,-102447,1020641,3,וטו,0.0,0.0,false,0.0
+וטו,Amos,Amos 3:14,102586,820688,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 51:15,103543,724801,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 11:41,-104579,269400,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 51:8,104910,629460,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 51:13,104959,629754,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 6:8,-105065,261624,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 9:25,-106994,658736,3,וטו,0.0,0.0,false,0.0
+סינ,Nehemiah,Nehemiah 4:1,-107235,1084784,3,סינ,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 15:37,-107559,329279,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 7:1,-107871,540341,3,סינ,0.0,0.0,false,0.0
+סינ,Job,Job 10:11,108389,975501,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 5:7,108493,650958,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 14:21,-108691,747063,3,וטו,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 27:3,-108808,963392,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 23:44,109107,763749,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 24:2,109162,764134,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 10:23,-110410,948974,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 44:6,110479,883832,3,וטו,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 7:5,-111054,1054232,3,וטו,0.0,0.0,false,0.0
+רוסיה,Joshua,Joshua 19:8,111246,333738,5,רוסיה,0.0,0.0,false,0.0
+סינ,Amos,Amos 5:8,-112069,821974,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 39:5,-112454,705670,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 14:18,114332,457328,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 13:3,-114523,453865,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 83:9,-115134,906458,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 31:39,115284,691704,3,סינ,0.0,0.0,false,0.0
+סינ,Hosea,Hosea 13:2,116187,813309,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 18:7,116207,464828,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 1:8,-116503,1010640,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 37:10,117077,702462,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 5:6,-119001,1109657,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 21:2,-119968,982920,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 50:11,120329,721974,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 11:7,-120760,1097344,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 13:20,-121044,369092,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:2,121497,364491,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 33:2,122427,244854,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 33:22,122451,244902,3,סינ,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 41:6,-123424,708424,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 47:1,125001,625005,3,סינ,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 49:17,125548,627740,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 21:4,126355,758130,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 51:9,126831,887817,3,סינ,0.0,0.0,false,0.0
+וטו,Esther,Esther 9:24,-129155,1038579,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 2:27,-129589,646774,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 5:5,-129940,1033084,3,וטו,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 12:21,-130590,506174,3,וטו,0.0,0.0,false,0.0
+סינ,Esther,Esther 1:3,-130758,1027358,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 8:19,131435,657175,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 22:18,131728,526912,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 9:11,-136151,853456,3,וטו,0.0,0.0,false,0.0
+סינ,Deuteronomy,Deuteronomy 82:8,-137571,291812,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 1:11,-139932,1103072,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 22:6,140146,420438,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 23:13,140798,422394,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 10:34,-141063,1096286,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 39:1,-144454,787032,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 20:8,145092,870552,3,סינ,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 59:9,-145132,636476,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 52:3,145526,727630,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 107:21,-145959,920951,3,סינ,0.0,0.0,false,0.0
+וטו,Daniel,Daniel 12:8,-146447,1063982,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 9:16,146624,586496,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 42:17,-146994,619718,3,סינ,0.0,0.0,false,0.0
+סינ,II Samuel,II Samuel 9:3,149380,448140,3,סינ,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 11:24,150507,451521,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 30:1,151246,604984,3,סינ,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 21:8,151659,758295,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 51:17,-152220,724904,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 14:25,152631,457893,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 21:2,-153454,1175394,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:2,-153979,402874,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 3:17,154351,308702,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 12:13,-155681,1164259,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 6:17,-155944,539168,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 7:7,-158626,356404,3,וטו,0.0,0.0,false,0.0
+וטו,Joshua,Joshua 10:14,160204,320408,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 25:22,-160481,1140259,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 6:28,-161115,653744,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 21:24,-161519,1135069,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 17:27,-162401,1130659,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 26:7,-163326,962708,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 19:9,-163939,467213,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 8:7,164110,656440,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 7:28,-165495,1115189,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 136:20,-167956,934928,3,סינ,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 26:23,-168147,429341,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 21:2,168332,673328,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 15:13,170615,511845,3,סינ,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 7:3,-170784,1088744,3,וטו,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 14:3,171420,857100,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 81:15,-172792,905912,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 78:28,-173272,903032,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 9:5,-175820,360284,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 22:92,175971,175971,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 38:12,176031,704124,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 5:26,176485,352970,3,סינ,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 33:22,-177573,877226,3,סינ,0.0,0.0,false,0.0
+וטו,Judges,Judges 6:29,177575,355150,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 44:14,178231,712924,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 7:23,178806,357612,3,וטו,0.0,0.0,false,0.0
+וטו,Leviticus,Leviticus 52:61,180389,180389,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 10:27,182740,548220,3,וטו,0.0,0.0,false,0.0
+וטו,Esther,Esther 1:16,-182899,1028169,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 11:33,183219,366438,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 20:16,188999,755996,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 30:26,-190894,606406,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 42:10,-191460,793904,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 27:15,192118,768472,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 3:94,192537,192537,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 5:4,195388,195388,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 6:42,198212,198212,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 139:16,-201302,936154,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 14:21,202053,404106,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:23,-202918,725156,3,סינ,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 49:8,-203865,719474,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 41:61,211833,211833,3,וטו,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 41:43,212709,212709,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 62:4,213086,639258,3,וטו,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 51:2,214126,214126,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 13:4,-215190,866714,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 4:7,216428,649284,3,סינ,0.0,0.0,false,0.0
+וטו,Numbers,Numbers 91:91,221644,221644,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 6:6,222057,444114,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 7:6,222742,445484,3,וטו,0.0,0.0,false,0.0
+וטו,Ezekiel,Ezekiel 48:13,-227817,803579,3,וטו,0.0,0.0,false,0.0
+וטו,II Samuel,II Samuel 17:22,231934,463868,3,וטו,0.0,0.0,false,0.0
+וטו,Ruth,Ruth 3:3,-233669,1007988,3,וטו,0.0,0.0,false,0.0
+וטו,Jeremiah,Jeremiah 38:2,234456,703368,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 26:7,-235154,766894,3,סינ,0.0,0.0,false,0.0
+סינ,Numbers,Numbers 82:61,235956,235956,3,סינ,0.0,0.0,false,0.0
+וטו,Job,Job 33:19,-237692,991896,3,וטו,0.0,0.0,false,0.0
+סינ,I Kings,I Kings 15:15,-238449,511970,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 5:7,-241542,734954,3,סינ,0.0,0.0,false,0.0
+וטו,I Kings,I Kings 5:32,244353,488706,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 26:8,-244985,962724,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 46:6,-245523,715049,3,סינ,0.0,0.0,false,0.0
+סינ,Proverbs,Proverbs 14:1,-247753,951652,3,סינ,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 35:1,-247796,1199276,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 25:14,-253579,1181927,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 115:18,-254484,924728,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 23:20,-254551,1179011,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 3:2,254606,254606,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 13:11,-259159,1165187,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 63:12,-260461,640359,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 29:18,-267601,604659,3,וטו,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 5:18,268756,537512,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 13:3,-268997,866676,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 21:11,-269520,1134104,3,וטו,0.0,0.0,false,0.0
+סינ,Psalms,Psalms 3:5,-270015,862604,3,סינ,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 19:15,-270017,1132613,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 21:31,271396,271396,3,וטו,0.0,0.0,false,0.0
+סינ,Isaiah,Isaiah 2:20,-272643,579449,3,סינ,0.0,0.0,false,0.0
+סינ,II Kings,II Kings 17:11,-276639,559469,3,סינ,0.0,0.0,false,0.0
+וטו,Micah,Micah 5:4,-277307,833436,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 71:5,278058,278058,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 2:5,-279323,1104695,3,וטו,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 2:6,281805,281805,3,וטו,0.0,0.0,false,0.0
+וטו,II Kings,II Kings 19:30,282996,565992,3,וטו,0.0,0.0,false,0.0
+וטו,Isaiah,Isaiah 16:7,296402,592804,3,וטו,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 6:13,-301547,736476,3,סינ,0.0,0.0,false,0.0
+סינ,Ezekiel,Ezekiel 4:4,-302230,733744,3,סינ,0.0,0.0,false,0.0
+סינ,Esther,Esther 5:2,-303253,1032905,3,סינ,0.0,0.0,false,0.0
+וטו,Deuteronomy,Deuteronomy 33:71,303603,303603,3,וטו,0.0,0.0,false,0.0
+סינ,Jeremiah,Jeremiah 51:12,-304511,724620,3,סינ,0.0,0.0,false,0.0
+וטו,Ecclesiastes,Ecclesiastes 8:10,-306412,1023428,3,וטו,0.0,0.0,false,0.0
+וטו,Lamentations,Lamentations 4:11,-309222,1014998,3,וטו,0.0,0.0,false,0.0
+וטו,Proverbs,Proverbs 23:24,-327474,960242,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 142:8,-335055,937499,3,וטו,0.0,0.0,false,0.0
+סינ,Joshua,Joshua 21:11,336877,336877,3,סינ,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 68:5,-349159,895187,3,וטו,0.0,0.0,false,0.0
+וטו,Psalms,Psalms 47:3,-352377,885533,3,וטו,0.0,0.0,false,0.0
+סינ,Judges,Judges 6:5,353563,353563,3,סינ,0.0,0.0,false,0.0
+וטו,Zechariah,Zechariah 10:3,-362909,853937,3,וטו,0.0,0.0,false,0.0
+וטו,Judges,Judges 10:12,364024,364024,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 33:16,-373258,1196148,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 15:14,-387534,1167596,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 12:13,-389213,1164238,3,וטו,0.0,0.0,false,0.0
+וטו,I Samuel,I Samuel 6:10,391768,391768,3,וטו,0.0,0.0,false,0.0
+וטו,II Chronicles,II Chronicles 4:3,-395747,1151170,3,וטו,0.0,0.0,false,0.0
+סינ,II Chronicles,II Chronicles 1:8,-397327,1148010,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 25:4,-401557,1139550,3,וטו,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 23:13,-402740,1137184,3,וטו,0.0,0.0,false,0.0
+סינ,I Chronicles,I Chronicles 5:1,-416586,1109492,3,סינ,0.0,0.0,false,0.0
+וטו,I Chronicles,I Chronicles 2:46,-418235,1106194,3,וטו,0.0,0.0,false,0.0
+וטו,Nehemiah,Nehemiah 9:25,-424140,1094384,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 41:2,-472165,998334,3,וטו,0.0,0.0,false,0.0
+וטו,Job,Job 19:20,-480449,981766,3,וטו,0.0,0.0,false,0.0

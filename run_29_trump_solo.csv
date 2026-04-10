@@ -1,0 +1,3 @@
+word,book,verse,skip,start,length,sequence,hebert_score,z_score,is_significant,semantic_z_score
+טראמפ,Leviticus,Leviticus 41:11,2,161858,5,טראמפ,0.24321511,7.041739,true,0.0
+טראמפ,Joshua,Joshua 21:1,33625,336250,5,טראמפ,0.2844808,7.041739,true,0.0

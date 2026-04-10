@@ -1,0 +1,1 @@
+Always prioritize Hebrew-BERT semantic scores over raw skips. If a verse lock involves the years תשפו (2026) or תשצ (2030), flag it as a 'Systemic Decadal Anchor' in the documentation updates. Maintain a cold, intelligence-briefing tone for all generated summaries.

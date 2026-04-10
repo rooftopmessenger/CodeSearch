@@ -1,0 +1,195 @@
+word,book,verse,skip,start,length,sequence,hebert_score,z_score,is_significant,semantic_z_score
+NAIL,Acts,Acts 10:1,-1,1573332,4,NAIL,0.0,0.0,false,0.0
+NAIL,Colossians,Colossians 2:14,1,1783115,4,NAIL,0.0,0.0,false,0.0
+מסמר,Daniel,Daniel 8:10,-1,1056754,4,מסמר,0.0,0.0,false,0.0
+NAIL,Hebrews,Hebrews 11:34,-1,1846558,4,NAIL,0.0,0.0,false,0.0
+מסמר,I Chronicles,I Chronicles 22:3,1,1135506,4,מסמר,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 3:9,1,1150521,4,מסמר,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 16:4,-1,592692,4,מסמר,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 28:19,-1,603121,4,מסמר,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 41:7,1,617764,4,מסמר,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 63:3,-1,639905,4,מסמר,0.0,0.0,false,0.0
+מסמר,Jeremiah,Jeremiah 10:4,1,658948,4,מסמר,0.0,0.0,false,0.0
+מסמר,Job,Job 6:14,1,972507,4,מסמר,0.0,0.0,false,0.0
+NAIL,John,John 20:25,1,1536845,4,NAIL,0.0,0.0,false,0.0
+NAIL,John,John 20:25,1,1536881,4,NAIL,0.0,0.0,false,0.0
+NAIL,Romans,Romans 16:15,-1,1680131,4,NAIL,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 28:16,-2,602996,4,מסמר,0.0,0.0,false,0.0
+מסמר,Proverbs,Proverbs 15:32,-2,953526,4,מסמר,0.0,0.0,false,0.0
+NAIL,Colossians,Colossians 2:19,-3,1783508,4,NAIL,0.0,0.0,false,0.0
+מסמר,Exodus,Exodus 41:91,-3,99107,4,מסמר,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 9:28,3,1160775,4,מסמר,0.0,0.0,false,0.0
+מסמר,Judges,Judges 18:14,-3,376067,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 15:13,-3,1427402,4,NAIL,0.0,0.0,false,0.0
+מסמר,Numbers,Numbers 92:33,3,238146,4,מסמר,0.0,0.0,false,0.0
+מסמר,Exodus,Exodus 71:1,-4,103212,4,מסמר,0.0,0.0,false,0.0
+מסמר,Ezekiel,Ezekiel 20:28,4,756816,4,מסמר,0.0,0.0,false,0.0
+NAIL,Hebrews,Hebrews 13:4,4,1850392,4,NAIL,0.0,0.0,false,0.0
+מסמר,Hosea,Hosea 9:6,-4,810736,4,מסמר,0.0,0.0,false,0.0
+מסמר,I Samuel,I Samuel 6:18,4,392360,4,מסמר,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 15:16,4,1167724,4,מסמר,0.0,0.0,false,0.0
+מסמר,Jeremiah,Jeremiah 50:45,4,723936,4,מסמר,0.0,0.0,false,0.0
+NAIL,John,John 4:13,-4,1475152,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 24:34,4,1280236,4,NAIL,0.0,0.0,false,0.0
+NAIL,Revelation,Revelation 1:13,-4,1895908,4,NAIL,0.0,0.0,false,0.0
+NAIL,Revelation,Revelation 3:3,4,1900396,4,NAIL,0.0,0.0,false,0.0
+מסמר,Judges,Judges 6:38,5,355730,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 11:36,-5,1412179,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 23:6,-6,1621802,4,NAIL,0.0,0.0,false,0.0
+מסמר,Deuteronomy,Deuteronomy 9:21,-6,266216,4,מסמר,0.0,0.0,false,0.0
+מסמר,Genesis,Genesis 91:81,-6,23258,4,מסמר,0.0,0.0,false,0.0
+NAIL,Mark,Mark 12:37,-6,1344578,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 9:10,8,1569840,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 8:44,8,1397840,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 20:17,-8,1264056,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 4:9,9,1550754,4,NAIL,0.0,0.0,false,0.0
+NAIL,John,John 12:47,-10,1512384,4,NAIL,0.0,0.0,false,0.0
+NAIL,Hebrews,Hebrews 2:10,11,1825428,4,NAIL,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 15:52,11,1716957,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 24:18,-11,1462008,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 15:13,12,1592760,4,NAIL,0.0,0.0,false,0.0
+מסמר,Daniel,Daniel 8:26,-12,1057556,4,מסמר,0.0,0.0,false,0.0
+NAIL,Ephesians,Ephesians 1:10,-12,1758008,4,NAIL,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 44:28,12,622932,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 7:34,-12,1391612,4,NAIL,0.0,0.0,false,0.0
+מסמר,Zechariah,Zechariah 9:11,12,853428,4,מסמר,0.0,0.0,false,0.0
+NAIL,Hebrews,Hebrews 11:22,13,1845363,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 2:34,-13,1369975,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 21:15,-13,1448391,4,NAIL,0.0,0.0,false,0.0
+מסמר,Nehemiah,Nehemiah 12:28,-13,1099562,4,מסמר,0.0,0.0,false,0.0
+NAIL,Acts,Acts 7:60,14,1565172,4,NAIL,0.0,0.0,false,0.0
+NAIL,Galatians,Galatians 4:14,-14,1752250,4,NAIL,0.0,0.0,false,0.0
+NAIL,Galatians,Galatians 5:3,-14,1753888,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 9:20,-14,1226354,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 19:5,-14,1260066,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Corinthians,II Corinthians 10:7,-16,1736616,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 12:25,-18,1583258,4,NAIL,0.0,0.0,false,0.0
+NAIL,John,John 20:7,-19,1535095,4,NAIL,0.0,0.0,false,0.0
+מסמר,Song of Songs,Song of Songs 1:13,-19,1000435,4,מסמר,0.0,0.0,false,0.0
+NAIL,John,John 14:13,20,1517020,4,NAIL,0.0,0.0,false,0.0
+NAIL,Revelation,Revelation 1:19,-21,1896548,4,NAIL,0.0,0.0,false,0.0
+NAIL,I Timothy,I Timothy 1:2,23,1799589,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 16:8,23,1429979,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 23:16,-23,1275066,4,NAIL,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 14:35,-26,1712564,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 16:28,-29,1253653,4,NAIL,0.0,0.0,false,0.0
+מסמר,Psalms,Psalms 47:8,30,885690,4,מסמר,0.0,0.0,false,0.0
+NAIL,Acts,Acts 16:37,-31,1598998,4,NAIL,0.0,0.0,false,0.0
+NAIL,Hebrews,Hebrews 10:3,31,1840036,4,NAIL,0.0,0.0,false,0.0
+מסמר,Jeremiah,Jeremiah 49:15,31,719882,4,מסמר,0.0,0.0,false,0.0
+NAIL,John,John 4:48,33,1478004,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 15:15,33,1427613,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 14:19,33,1246146,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 27:8,-34,1634998,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 17:29,-38,1434794,4,NAIL,0.0,0.0,false,0.0
+NAIL,Mark,Mark 10:33,-38,1335918,4,NAIL,0.0,0.0,false,0.0
+מסמר,Psalms,Psalms 106:48,40,920360,4,מסמר,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 16:18,41,1718966,4,NAIL,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 18:17,41,1171083,4,מסמר,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 14:27,42,1711920,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 4:20,-42,1377428,4,NAIL,0.0,0.0,false,0.0
+NAIL,James,James 4:3,-44,1858536,4,NAIL,0.0,0.0,false,0.0
+NAIL,Titus,Titus 1:5,47,1817443,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 1:21,50,1542700,4,NAIL,0.0,0.0,false,0.0
+מסמר,Daniel,Daniel 1:13,54,1040256,4,מסמר,0.0,0.0,false,0.0
+מסמר,Isaiah,Isaiah 26:8,-55,600829,4,מסמר,0.0,0.0,false,0.0
+NAIL,I Peter,I Peter 2:4,-72,1864688,4,NAIL,0.0,0.0,false,0.0
+NAIL,I Thessalonians,I Thessalonians 5:8,77,1793946,4,NAIL,0.0,0.0,false,0.0
+NAIL,Mark,Mark 9:3,-87,1328618,4,NAIL,0.0,0.0,false,0.0
+NAIL,John,John 16:28,-94,1523518,4,NAIL,0.0,0.0,false,0.0
+NAIL,I John,I John 2:19,-97,1882136,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Thessalonians,II Thessalonians 1:1,-101,1795204,4,NAIL,0.0,0.0,false,0.0
+מסמר,Leviticus,Leviticus 3:6,-105,143699,4,מסמר,0.0,0.0,false,0.0
+NAIL,I Thessalonians,I Thessalonians 1:7,-107,1788156,4,NAIL,0.0,0.0,false,0.0
+NAIL,Romans,Romans 2:28,108,1647648,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 24:47,-111,1464476,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 16:1,124,1595508,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 27:26,-128,1636744,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 2:42,-129,1547021,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 3:22,130,1549600,4,NAIL,0.0,0.0,false,0.0
+מסמר,Exodus,Exodus 21:83,-137,96178,4,מסמר,0.0,0.0,false,0.0
+NAIL,I Timothy,I Timothy 3:1,137,1802509,4,NAIL,0.0,0.0,false,0.0
+NAIL,Romans,Romans 7:13,-140,1657904,4,NAIL,0.0,0.0,false,0.0
+NAIL,Mark,Mark 10:19,-166,1334440,4,NAIL,0.0,0.0,false,0.0
+NAIL,Colossians,Colossians 2:1,171,1781820,4,NAIL,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 14:16,173,1710797,4,NAIL,0.0,0.0,false,0.0
+NAIL,Ephesians,Ephesians 6:1,-179,1767960,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 12:13,-179,1235435,4,NAIL,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 33:3,186,1195236,4,מסמר,0.0,0.0,false,0.0
+NAIL,Acts,Acts 27:22,-204,1636460,4,NAIL,0.0,0.0,false,0.0
+מסמר,Exodus,Exodus 92:21,214,121124,4,מסמר,0.0,0.0,false,0.0
+מסמר,Psalms,Psalms 107:23,216,921024,4,מסמר,0.0,0.0,false,0.0
+NAIL,John,John 12:35,-222,1511318,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 14:21,235,1425040,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 27:35,236,1637604,4,NAIL,0.0,0.0,false,0.0
+NAIL,John,John 20:26,252,1536948,4,NAIL,0.0,0.0,false,0.0
+מסמר,I Kings,I Kings 15:15,265,511980,4,מסמר,0.0,0.0,false,0.0
+NAIL,Acts,Acts 24:11,271,1626271,4,NAIL,0.0,0.0,false,0.0
+מסמר,I Chronicles,I Chronicles 29:1,305,1145580,4,מסמר,0.0,0.0,false,0.0
+מסמר,Numbers,Numbers 43:21,-310,246654,4,מסמר,0.0,0.0,false,0.0
+מסמר,Song of Songs,Song of Songs 5:16,335,1003325,4,מסמר,0.0,0.0,false,0.0
+NAIL,II Timothy,II Timothy 3:2,337,1813734,4,NAIL,0.0,0.0,false,0.0
+NAIL,Romans,Romans 2:16,363,1646568,4,NAIL,0.0,0.0,false,0.0
+מסמר,I Kings,I Kings 7:6,-366,491108,4,מסמר,0.0,0.0,false,0.0
+מסמר,Psalms,Psalms 78:29,-368,903064,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 1:1,382,1360684,4,NAIL,0.0,0.0,false,0.0
+מסמר,Ezra,Ezra 8:11,384,1075200,4,מסמר,0.0,0.0,false,0.0
+NAIL,Acts,Acts 11:19,393,1579467,4,NAIL,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 34:23,-393,1198322,4,מסמר,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 17:3,413,1253868,4,NAIL,0.0,0.0,false,0.0
+NAIL,John,John 13:37,-429,1515809,4,NAIL,0.0,0.0,false,0.0
+NAIL,Romans,Romans 12:3,451,1670955,4,NAIL,0.0,0.0,false,0.0
+NAIL,Romans,Romans 6:19,452,1656128,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 11:17,-475,1233014,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 27:34,584,1637536,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Thessalonians,II Thessalonians 1:9,585,1795950,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 26:38,603,1288611,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 5:19,-681,1212632,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 3:10,-701,1372751,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Corinthians,II Corinthians 8:1,714,1732164,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 20:33,731,1613317,4,NAIL,0.0,0.0,false,0.0
+מסמר,Numbers,Numbers 22:52,-761,226609,4,מסמר,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 11:14,-768,1703816,4,NAIL,0.0,0.0,false,0.0
+NAIL,I Corinthians,I Corinthians 11:21,-836,1704404,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 15:29,876,1594320,4,NAIL,0.0,0.0,false,0.0
+מסמר,Job,Job 31:18,-1020,989984,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 11:51,1055,1413700,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Corinthians,II Corinthians 12:7,-1106,1741372,4,NAIL,0.0,0.0,false,0.0
+NAIL,Galatians,Galatians 3:24,1111,1750936,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Peter,II Peter 2:6,1129,1875269,4,NAIL,0.0,0.0,false,0.0
+NAIL,Acts,Acts 28:4,-1196,1638880,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 1:40,1247,1364218,4,NAIL,0.0,0.0,false,0.0
+מסמר,Ezra,Ezra 3:13,-1339,1068297,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 21:20,1359,1448694,4,NAIL,0.0,0.0,false,0.0
+מסמר,Daniel,Daniel 11:32,1366,1062748,4,מסמר,0.0,0.0,false,0.0
+מסמר,Proverbs,Proverbs 26:15,-1378,962906,4,מסמר,0.0,0.0,false,0.0
+מסמר,Job,Job 36:30,-1386,994640,4,מסמר,0.0,0.0,false,0.0
+NAIL,Luke,Luke 13:28,-1399,1422236,4,NAIL,0.0,0.0,false,0.0
+מסמר,Deuteronomy,Deuteronomy 1:41,1519,250635,4,מסמר,0.0,0.0,false,0.0
+NAIL,Jude,Jude 1:25,1600,1894400,4,NAIL,0.0,0.0,false,0.0
+NAIL,Mark,Mark 6:24,-1758,1318574,4,NAIL,0.0,0.0,false,0.0
+מסמר,Nehemiah,Nehemiah 11:22,1809,1098063,4,מסמר,0.0,0.0,false,0.0
+NAIL,II Corinthians,II Corinthians 2:7,1858,1722366,4,NAIL,0.0,0.0,false,0.0
+מסמר,Judges,Judges 19:18,-2238,378302,4,מסמר,0.0,0.0,false,0.0
+מסמר,Psalms,Psalms 90:11,-2243,910884,4,מסמר,0.0,0.0,false,0.0
+מסמר,Psalms,Psalms 71:1,2267,897732,4,מסמר,0.0,0.0,false,0.0
+מסמר,I Chronicles,I Chronicles 9:15,-2364,1117628,4,מסמר,0.0,0.0,false,0.0
+NAIL,I John,I John 2:20,-2517,1882256,4,NAIL,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 1:23,2596,1204544,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Thessalonians,II Thessalonians 3:16,2974,1799270,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Corinthians,II Corinthians 4:14,-3093,1726154,4,NAIL,0.0,0.0,false,0.0
+NAIL,II Timothy,II Timothy 3:14,-3121,1814703,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 1:23,-3186,1362812,4,NAIL,0.0,0.0,false,0.0
+מסמר,II Chronicles,II Chronicles 8:7,3478,1158174,4,מסמר,0.0,0.0,false,0.0
+NAIL,John,John 18:15,3681,1527615,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 16:24,4090,1431500,4,NAIL,0.0,0.0,false,0.0
+מסמר,II Kings,II Kings 9:18,4225,545025,4,מסמר,0.0,0.0,false,0.0
+מסמר,II Samuel,II Samuel 6:2,4268,443872,4,מסמר,0.0,0.0,false,0.0
+NAIL,Matthew,Matthew 16:16,-4342,1252286,4,NAIL,0.0,0.0,false,0.0
+NAIL,Revelation,Revelation 22:21,-4427,1942664,4,NAIL,0.0,0.0,false,0.0
+NAIL,Luke,Luke 17:4,4548,1432620,4,NAIL,0.0,0.0,false,0.0
+מסמר,Proverbs,Proverbs 10:8,4627,948535,4,מסמר,0.0,0.0,false,0.0
+מסמר,Judges,Judges 18:28,-4716,376952,4,מסמר,0.0,0.0,false,0.0
+NAIL,Mark,Mark 15:40,-4753,1358045,4,NAIL,0.0,0.0,false,0.0
+מסמר,Leviticus,Leviticus 32:22,4792,177304,4,מסמר,0.0,0.0,false,0.0
+מסמר,I Samuel,I Samuel 7:11,-4887,393485,4,מסמר,0.0,0.0,false,0.0

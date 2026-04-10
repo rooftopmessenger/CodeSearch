@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Generated / cached data (too large for GitHub)
+data/chroma/
+data/index_map.parquet
+data/full_text.bin
