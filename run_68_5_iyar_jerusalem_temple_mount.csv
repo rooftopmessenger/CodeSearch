@@ -1,0 +1,209 @@
+word,book,verse,skip,start,length,sequence,hebert_score,z_score,is_significant,semantic_z_score
+Jerusalem,Acts,Acts 1:4,1,1540754,9,JERUSALEM,0.17927969,0.0,false,0.0
+Jerusalem,Acts,Acts 1:8,1,1541186,9,JERUSALEM,0.15878043,0.0,false,0.0
+Jerusalem,Acts,Acts 1:12,1,1541600,9,JERUSALEM,0.30666113,0.0,false,0.0
+Jerusalem,Acts,Acts 1:12,1,1541644,9,JERUSALEM,0.30666113,0.0,false,0.0
+Jerusalem,Acts,Acts 1:19,1,1542417,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 2:5,1,1543533,9,JERUSALEM,0.17871565,0.0,false,0.0
+Jerusalem,Acts,Acts 2:14,1,1544292,9,JERUSALEM,0.14464663,0.0,false,0.0
+Jerusalem,Acts,Acts 4:6,1,1550540,9,JERUSALEM,0.11388714,0.0,false,0.0
+Jerusalem,Acts,Acts 4:16,1,1551531,9,JERUSALEM,0.13238928,0.0,false,0.0
+Jerusalem,Acts,Acts 5:16,1,1555148,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 5:28,1,1556417,9,JERUSALEM,0.1784682,0.0,false,0.0
+Jerusalem,Acts,Acts 6:7,1,1558620,9,JERUSALEM,0.18108246,0.0,false,0.0
+Jerusalem,Acts,Acts 8:1,1,1565314,9,JERUSALEM,0.13614032,0.0,false,0.0
+Jerusalem,Acts,Acts 8:14,1,1566508,9,JERUSALEM,0.15551391,0.0,false,0.0
+Jerusalem,Acts,Acts 8:25,1,1567436,9,JERUSALEM,0.21443978,0.0,false,0.0
+Jerusalem,Acts,Acts 8:26,1,1567586,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 8:27,1,1567755,9,JERUSALEM,0.16482885,0.0,false,0.0
+Jerusalem,Acts,Acts 9:2,1,1569207,9,JERUSALEM,0.20314701,0.0,false,0.0
+Jerusalem,Acts,Acts 9:13,1,1570257,9,JERUSALEM,0.2337311,0.0,false,0.0
+Jerusalem,Acts,Acts 9:21,1,1571054,9,JERUSALEM,0.3015138,0.0,false,0.0
+Jerusalem,Acts,Acts 9:26,1,1571449,9,JERUSALEM,0.23055166,0.0,false,0.0
+Jerusalem,Acts,Acts 9:28,1,1571752,9,JERUSALEM,0.27289307,0.0,false,0.0
+Jerusalem,Acts,Acts 10:39,1,1576947,9,JERUSALEM,0.17803824,0.0,false,0.0
+Jerusalem,Acts,Acts 11:2,1,1577880,9,JERUSALEM,0.17595136,0.0,false,0.0
+5 Iyar,Acts,Acts 11:5,-1,1578091,4,IYAR,0.055306204,0.0,false,0.0
+Jerusalem,Acts,Acts 11:22,1,1579741,9,JERUSALEM,0.18311976,0.0,false,0.0
+Jerusalem,Acts,Acts 11:27,1,1580237,9,JERUSALEM,0.14060754,0.0,false,0.0
+5 Iyar,Acts,Acts 12:12,-1,1581967,4,IYAR,0.12840456,0.0,false,0.0
+Jerusalem,Acts,Acts 12:25,1,1583198,9,JERUSALEM,0.17613411,0.0,false,0.0
+Jerusalem,Acts,Acts 13:13,1,1584681,9,JERUSALEM,0.093188696,0.0,false,0.0
+Jerusalem,Acts,Acts 13:27,1,1586061,9,JERUSALEM,0.09409403,0.0,false,0.0
+Jerusalem,Acts,Acts 13:31,1,1586448,9,JERUSALEM,0.26932096,0.0,false,0.0
+Jerusalem,Acts,Acts 15:2,1,1591570,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 15:4,1,1591785,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 16:4,1,1595846,9,JERUSALEM,0.18513396,0.0,false,0.0
+Jerusalem,Acts,Acts 18:21,1,1605052,9,JERUSALEM,0.22231357,0.0,false,0.0
+Jerusalem,Acts,Acts 19:21,1,1607920,9,JERUSALEM,0.17531933,0.0,false,0.0
+Jerusalem,Acts,Acts 20:16,1,1611728,9,JERUSALEM,0.3113811,0.0,false,0.0
+Jerusalem,Acts,Acts 20:22,1,1612267,9,JERUSALEM,0.2615468,0.0,false,0.0
+Jerusalem,Acts,Acts 21:4,1,1614191,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 21:11,1,1614908,9,JERUSALEM,0.2232895,0.0,false,0.0
+Jerusalem,Acts,Acts 21:12,1,1615061,9,JERUSALEM,0.22846751,0.0,false,0.0
+Jerusalem,Acts,Acts 21:13,1,1615162,9,JERUSALEM,0.20063974,0.0,false,0.0
+Jerusalem,Acts,Acts 21:15,1,1615307,9,JERUSALEM,0.15500428,0.0,false,0.0
+Jerusalem,Acts,Acts 21:17,1,1615453,9,JERUSALEM,0.16335037,0.0,false,0.0
+Jerusalem,Acts,Acts 21:31,1,1617238,9,JERUSALEM,0.16409464,0.0,false,0.0
+Jerusalem,Acts,Acts 22:5,1,1618805,9,JERUSALEM,0.113508135,0.0,false,0.0
+Jerusalem,Acts,Acts 22:17,1,1619891,9,JERUSALEM,0.13416155,0.0,false,0.0
+Jerusalem,Acts,Acts 22:18,1,1619992,9,JERUSALEM,0.1349763,0.0,false,0.0
+Jerusalem,Acts,Acts 23:11,1,1622579,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 24:11,1,1626283,9,JERUSALEM,0.11098714,0.0,false,0.0
+Jerusalem,Acts,Acts 25:1,1,1628018,9,JERUSALEM,0.19077101,0.0,false,0.0
+Jerusalem,Acts,Acts 25:3,1,1628149,9,JERUSALEM,0.11246517,0.0,false,0.0
+Jerusalem,Acts,Acts 25:7,1,1628534,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 25:9,1,1628813,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 25:15,1,1629414,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 25:20,1,1630043,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 25:24,1,1630561,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Acts,Acts 26:4,1,1631384,9,JERUSALEM,0.18994851,0.0,false,0.0
+Jerusalem,Acts,Acts 26:10,1,1631865,9,JERUSALEM,0.14659148,0.0,false,0.0
+Jerusalem,Acts,Acts 26:20,1,1633026,9,JERUSALEM,0.1747712,0.0,false,0.0
+Jerusalem,Acts,Acts 28:17,1,1640444,9,JERUSALEM,0.09477722,0.0,false,0.0
+5 Iyar,Colossians,Colossians 1:3,-1,1779295,4,IYAR,0.13134609,0.0,false,0.0
+5 Iyar,Colossians,Colossians 4:3,-1,1786076,4,IYAR,0.13984174,0.0,false,0.0
+5 Iyar,Ephesians,Ephesians 6:18,-1,1769326,4,IYAR,0.07039019,0.0,false,0.0
+Jerusalem,Galatians,Galatians 1:17,1,1745801,9,JERUSALEM,0.1461273,0.0,false,0.0
+Jerusalem,Galatians,Galatians 1:18,1,1745915,9,JERUSALEM,0.2117103,0.0,false,0.0
+Jerusalem,Galatians,Galatians 2:1,1,1746321,9,JERUSALEM,0.19266334,0.0,false,0.0
+Jerusalem,Galatians,Galatians 4:25,1,1753141,9,JERUSALEM,0.22595945,0.0,false,0.0
+Jerusalem,Galatians,Galatians 4:26,1,1753192,9,JERUSALEM,0.22599822,0.0,false,0.0
+Jerusalem,Hebrews,Hebrews 12:22,1,1849400,9,JERUSALEM,0.11876693,0.0,false,0.0
+5 Iyar,I Corinthians,I Corinthians 11:4,-1,1703083,4,IYAR,0.0687208,0.0,false,0.0
+5 Iyar,I Corinthians,I Corinthians 14:14,-1,1710493,4,IYAR,0.104561105,0.0,false,0.0
+Jerusalem,I Corinthians,I Corinthians 16:3,1,1717810,9,JERUSALEM,0.22229989,0.0,false,0.0
+5 Iyar,I Thessalonians,I Thessalonians 3:10,-1,1791387,4,IYAR,0.094006725,0.0,false,0.0
+5 Iyar,II Corinthians,II Corinthians 8:4,-1,1732357,4,IYAR,0.102451146,0.0,false,0.0
+5 Iyar,James,James 5:13,-1,1861064,4,IYAR,0.16508721,0.0,false,0.0
+Jerusalem,John,John 1:19,1,1466088,9,JERUSALEM,0.2517344,0.0,false,0.0
+Jerusalem,John,John 2:13,1,1469957,9,JERUSALEM,0.25220516,0.0,false,0.0
+Jerusalem,John,John 2:23,1,1470766,9,JERUSALEM,0.22080567,0.0,false,0.0
+Jerusalem,John,John 4:20,1,1475683,9,JERUSALEM,0.18743744,0.0,false,0.0
+Jerusalem,John,John 4:21,1,1475808,9,JERUSALEM,0.20688014,0.0,false,0.0
+Jerusalem,John,John 4:45,1,1477676,9,JERUSALEM,0.23223075,0.0,false,0.0
+Jerusalem,John,John 5:1,1,1478573,9,JERUSALEM,0.2831216,0.0,false,0.0
+Jerusalem,John,John 5:2,1,1478594,9,JERUSALEM,0.22841147,0.0,false,0.0
+Jerusalem,John,John 7:25,1,1490274,9,JERUSALEM,0.24391113,0.0,false,0.0
+Jerusalem,John,John 10:22,1,1502388,9,JERUSALEM,0.21377449,0.0,false,0.0
+Jerusalem,John,John 11:18,1,1505079,9,JERUSALEM,0.2785635,0.0,false,0.0
+Jerusalem,John,John 11:55,1,1508200,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,John,John 12:12,1,1509462,9,JERUSALEM,0.24414404,0.0,false,0.0
+5 Iyar,John,John 17:20,-1,1525680,4,IYAR,0.15164278,0.0,false,0.0
+5 Iyar,Jude,Jude 1:20,-1,1894022,4,IYAR,0.07670881,0.0,false,0.0
+5 Iyar,Luke,Luke 1:10,-1,1361526,4,IYAR,0.104402035,0.0,false,0.0
+Jerusalem,Luke,Luke 2:22,1,1369027,9,JERUSALEM,0.16097614,0.0,false,0.0
+Jerusalem,Luke,Luke 2:25,1,1369261,9,JERUSALEM,0.19403335,0.0,false,0.0
+Jerusalem,Luke,Luke 2:38,1,1370432,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Luke,Luke 2:41,1,1370642,9,JERUSALEM,0.111176,0.0,false,0.0
+Jerusalem,Luke,Luke 2:42,1,1370721,9,JERUSALEM,0.13351686,0.0,false,0.0
+Jerusalem,Luke,Luke 2:43,1,1370826,9,JERUSALEM,0.16313079,0.0,false,0.0
+Jerusalem,Luke,Luke 2:45,1,1371016,9,JERUSALEM,0.17080991,0.0,false,0.0
+5 Iyar,Luke,Luke 3:21,-1,1373782,4,IYAR,0.068607986,0.0,false,0.0
+Jerusalem,Luke,Luke 4:9,1,1376345,9,JERUSALEM,0.1589112,0.0,false,0.0
+Jerusalem,Luke,Luke 5:17,1,1381396,9,JERUSALEM,0.14762276,0.0,false,0.0
+Jerusalem,Luke,Luke 6:17,1,1385127,9,JERUSALEM,0.19254522,0.0,false,0.0
+5 Iyar,Luke,Luke 9:18,-1,1400610,4,IYAR,0.058450006,0.0,false,0.0
+Jerusalem,Luke,Luke 9:31,1,1401797,9,JERUSALEM,0.1890948,0.0,false,0.0
+Jerusalem,Luke,Luke 9:51,1,1403741,9,JERUSALEM,0.18134758,0.0,false,0.0
+Jerusalem,Luke,Luke 9:53,1,1403904,9,JERUSALEM,0.13689242,0.0,false,0.0
+Jerusalem,Luke,Luke 10:30,1,1407486,9,JERUSALEM,0.17340215,0.0,false,0.0
+5 Iyar,Luke,Luke 11:1,-1,1408739,4,IYAR,0.09539722,0.0,false,0.0
+Jerusalem,Luke,Luke 13:4,1,1420032,9,JERUSALEM,0.12724054,0.0,false,0.0
+Jerusalem,Luke,Luke 13:22,1,1421723,9,JERUSALEM,0.3256905,0.0,false,0.0
+Jerusalem,Luke,Luke 13:33,1,1422815,9,JERUSALEM,0.12473831,0.0,false,0.0
+Jerusalem,Luke,Luke 13:34,1,1422825,9,JERUSALEM,0.11171219,0.0,false,0.0
+Jerusalem,Luke,Luke 13:34,1,1422834,9,JERUSALEM,0.11171219,0.0,false,0.0
+Jerusalem,Luke,Luke 17:11,1,1433338,9,JERUSALEM,0.21204662,0.0,false,0.0
+Jerusalem,Luke,Luke 18:31,1,1438008,9,JERUSALEM,0.17200889,0.0,false,0.0
+Jerusalem,Luke,Luke 19:11,1,1439836,9,JERUSALEM,0.19741966,0.0,false,0.0
+Jerusalem,Luke,Luke 19:28,1,1441365,9,JERUSALEM,0.13124503,0.0,false,0.0
+Jerusalem,Luke,Luke 21:20,1,1448632,9,JERUSALEM,0.17420495,0.0,false,0.0
+Jerusalem,Luke,Luke 21:24,1,1449098,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Luke,Luke 23:7,1,1456489,9,JERUSALEM,0.15142481,0.0,false,0.0
+Jerusalem,Luke,Luke 23:28,1,1458201,9,JERUSALEM,0.09319939,0.0,false,0.0
+Jerusalem,Luke,Luke 24:13,1,1461601,9,JERUSALEM,0.16421854,0.0,false,0.0
+Jerusalem,Luke,Luke 24:18,1,1461988,9,JERUSALEM,0.1447986,0.0,false,0.0
+Jerusalem,Luke,Luke 24:33,1,1463366,9,JERUSALEM,0.24283504,0.0,false,0.0
+Jerusalem,Luke,Luke 24:47,1,1464482,9,JERUSALEM,0.22027577,0.0,false,0.0
+Jerusalem,Luke,Luke 24:49,1,1464583,9,JERUSALEM,0.13887191,0.0,false,0.0
+Jerusalem,Luke,Luke 24:52,1,1464799,9,JERUSALEM,0.10908746,0.0,false,0.0
+Jerusalem,Mark,Mark 1:5,1,1299662,9,JERUSALEM,0.18025485,0.0,false,0.0
+Jerusalem,Mark,Mark 3:8,1,1306737,9,JERUSALEM,0.24582346,0.0,false,0.0
+Jerusalem,Mark,Mark 3:22,1,1307828,9,JERUSALEM,0.15601793,0.0,false,0.0
+Jerusalem,Mark,Mark 7:1,1,1321648,9,JERUSALEM,0.24563542,0.0,false,0.0
+Jerusalem,Mark,Mark 10:32,1,1335690,9,JERUSALEM,0.10624462,0.0,false,0.0
+Jerusalem,Mark,Mark 10:33,1,1335859,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Mark,Mark 11:1,1,1337834,9,JERUSALEM,0.1630876,0.0,false,0.0
+Jerusalem,Mark,Mark 11:11,1,1338718,9,JERUSALEM,0.26951975,0.0,false,0.0
+Jerusalem,Mark,Mark 11:15,1,1339132,9,JERUSALEM,0.20487717,0.0,false,0.0
+5 Iyar,Mark,Mark 11:25,-1,1340145,4,IYAR,0.08855993,0.0,false,0.0
+Jerusalem,Mark,Mark 11:27,1,1340332,9,JERUSALEM,0.13359185,0.0,false,0.0
+Jerusalem,Mark,Mark 15:41,1,1358191,9,JERUSALEM,0.16367742,0.0,false,0.0
+Jerusalem,Matthew,Matthew 2:1,1,1204881,9,JERUSALEM,0.22554357,0.0,false,0.0
+Jerusalem,Matthew,Matthew 2:3,1,1205033,9,JERUSALEM,0.18816477,0.0,false,0.0
+Jerusalem,Matthew,Matthew 3:5,1,1207695,9,JERUSALEM,0.3976165,0.0,false,0.0
+Jerusalem,Matthew,Matthew 4:25,1,1211224,9,JERUSALEM,0.11172362,0.0,false,0.0
+Jerusalem,Matthew,Matthew 5:35,1,1214583,9,JERUSALEM,0.068320625,0.0,false,0.0
+Jerusalem,Matthew,Matthew 15:1,1,1247658,9,JERUSALEM,0.16037956,0.0,false,0.0
+Jerusalem,Matthew,Matthew 16:21,1,1252862,9,JERUSALEM,0.21973315,0.0,false,0.0
+Jerusalem,Matthew,Matthew 20:17,1,1264004,9,JERUSALEM,0.25939792,0.0,false,0.0
+Jerusalem,Matthew,Matthew 20:18,1,1264077,9,JERUSALEM,0.201781,0.0,false,0.0
+Jerusalem,Matthew,Matthew 21:1,1,1265758,9,JERUSALEM,0.24603012,0.0,false,0.0
+Jerusalem,Matthew,Matthew 21:10,1,1266577,9,JERUSALEM,0.31707227,0.0,false,0.0
+Jerusalem,Matthew,Matthew 23:37,1,1277035,9,JERUSALEM,0.31688407,0.0,false,0.0
+Jerusalem,Matthew,Matthew 23:37,1,1277044,9,JERUSALEM,0.31688407,0.0,false,0.0
+Jerusalem,Revelation,Revelation 3:12,1,1901567,9,JERUSALEM,0.2252753,0.0,false,0.0
+Jerusalem,Revelation,Revelation 21:2,1,1937519,9,JERUSALEM,0.25721806,0.0,false,0.0
+Jerusalem,Revelation,Revelation 21:10,1,1938609,9,JERUSALEM,0.15431322,0.0,false,0.0
+Jerusalem,Romans,Romans 15:19,1,1677737,9,JERUSALEM,0.17535046,0.0,false,0.0
+Jerusalem,Romans,Romans 15:25,1,1678292,9,JERUSALEM,0.13278165,0.0,false,0.0
+Jerusalem,Romans,Romans 15:26,1,1678416,9,JERUSALEM,0.10723181,0.0,false,0.0
+Jerusalem,Romans,Romans 15:31,1,1678942,9,JERUSALEM,0.16573828,0.0,false,0.0
+5 Iyar,Acts,Acts 2:26,3,1545417,4,IYAR,0.09217104,0.0,false,0.0
+5 Iyar,I Corinthians,I Corinthians 4:8,3,1688145,4,IYAR,0.15159409,0.0,false,0.0
+5 Iyar,Acts,Acts 22:3,-4,1618428,4,IYAR,0.12181104,0.0,false,0.0
+5 Iyar,Hebrews,Hebrews 7:15,4,1833928,4,IYAR,0.055804778,0.0,false,0.0
+5 Iyar,Luke,Luke 17:8,5,1433040,4,IYAR,0.11189487,0.0,false,0.0
+5 Iyar,Luke,Luke 20:8,5,1443710,4,IYAR,0.10086889,0.0,false,0.0
+5 Iyar,Luke,Luke 19:8,-6,1439552,4,IYAR,0.037556175,0.0,false,0.0
+5 Iyar,John,John 7:7,7,1488935,4,IYAR,0.12420417,0.0,false,0.0
+5 Iyar,Hebrews,Hebrews 9:1,-8,1836744,4,IYAR,0.11889462,0.0,false,0.0
+5 Iyar,II Corinthians,II Corinthians 1:11,9,1720575,4,IYAR,0.14198723,0.0,false,0.0
+5 Iyar,I Corinthians,I Corinthians 3:3,13,1685710,4,IYAR,0.15909755,0.0,false,0.0
+5 Iyar,I Corinthians,I Corinthians 1:10,-15,1682204,4,IYAR,0.109068125,0.0,false,0.0
+5 Iyar,James,James 5:2,20,1859860,4,IYAR,0.14636876,0.0,false,0.0
+5 Iyar,Luke,Luke 12:28,20,1416640,4,IYAR,0.108609624,0.0,false,0.0
+5 Iyar,John,John 12:39,26,1511822,4,IYAR,0.14894608,0.0,false,0.0
+5 Iyar,Matthew,Matthew 26:24,-26,1287412,4,IYAR,0.10992747,0.0,false,0.0
+5 Iyar,Acts,Acts 24:16,-30,1626764,4,IYAR,0.10057028,0.0,false,0.0
+5 Iyar,Philippians,Philippians 2:17,32,1773888,4,IYAR,0.121988945,0.0,false,0.0
+5 Iyar,Acts,Acts 2:20,36,1544832,4,IYAR,0.13282512,0.0,false,0.0
+5 Iyar,II Corinthians,II Corinthians 1:19,-40,1721344,4,IYAR,0.12237488,0.0,false,0.0
+5 Iyar,Luke,Luke 9:12,-45,1400009,4,IYAR,0.15159409,0.0,false,0.0
+5 Iyar,Romans,Romans 6:3,71,1654655,4,IYAR,0.125389,0.0,false,0.0
+5 Iyar,Acts,Acts 3:16,75,1548975,4,IYAR,0.14275637,0.0,false,0.0
+5 Iyar,I Thessalonians,I Thessalonians 4:11,-76,1792640,4,IYAR,0.08561511,0.0,false,0.0
+5 Iyar,Matthew,Matthew 14:34,-101,1247380,4,IYAR,0.07447988,0.0,false,0.0
+5 Iyar,Matthew,Matthew 7:5,-105,1219214,4,IYAR,0.07807481,0.0,false,0.0
+5 Iyar,Acts,Acts 8:23,114,1567272,4,IYAR,0.07229359,0.0,false,0.0
+5 Iyar,Acts,Acts 27:3,115,1634610,4,IYAR,0.098546945,0.0,false,0.0
+5 Iyar,II Peter,II Peter 3:16,-154,1879062,4,IYAR,0.15159409,0.0,false,0.0
+5 Iyar,I Thessalonians,I Thessalonians 3:8,-186,1791260,4,IYAR,0.10492435,0.0,false,0.0
+5 Iyar,Matthew,Matthew 28:10,236,1298472,4,IYAR,0.10982452,0.0,false,0.0
+5 Iyar,II Corinthians,II Corinthians 11:4,295,1738140,4,IYAR,0.13267484,0.0,false,0.0
+5 Iyar,Philippians,Philippians 3:12,-330,1776014,4,IYAR,0.09300534,0.0,false,0.0
+5 Iyar,Matthew,Matthew 5:28,-339,1213814,4,IYAR,0.094825596,0.0,false,0.0
+5 Iyar,Matthew,Matthew 6:33,389,1218737,4,IYAR,0.09256027,0.0,false,0.0
+5 Iyar,I Corinthians,I Corinthians 16:12,-392,1718440,4,IYAR,0.121450275,0.0,false,0.0
+5 Iyar,Hebrews,Hebrews 11:16,-404,1844896,4,IYAR,0.0971521,0.0,false,0.0
+5 Iyar,Acts,Acts 13:34,405,1586790,4,IYAR,0.12776174,0.0,false,0.0
+5 Iyar,John,John 11:2,427,1503894,4,IYAR,0.14567176,0.0,false,0.0
+5 Iyar,Matthew,Matthew 27:60,448,1296960,4,IYAR,0.061251156,0.0,false,0.0
+5 Iyar,Acts,Acts 12:4,645,1580895,4,IYAR,0.06185684,0.0,false,0.0
+5 Iyar,Acts,Acts 7:41,-705,1563374,4,IYAR,0.09446648,0.0,false,0.0
+5 Iyar,Matthew,Matthew 26:55,791,1290121,4,IYAR,0.05670615,0.0,false,0.0
+5 Iyar,Acts,Acts 7:7,-802,1560110,4,IYAR,0.15159409,0.0,false,0.0
+5 Iyar,Matthew,Matthew 4:23,804,1210824,4,IYAR,0.1038987,0.0,false,0.0
+5 Iyar,Luke,Luke 11:53,954,1413828,4,IYAR,0.099521734,0.0,false,0.0
+5 Iyar,Ephesians,Ephesians 5:31,992,1767744,4,IYAR,0.06551127,0.0,false,0.0
